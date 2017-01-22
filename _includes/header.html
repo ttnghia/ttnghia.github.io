@@ -1,7 +1,33 @@
 <header class="site-header">
+<script language="JavaScript">
+
+<!-- Begin
+// Set up the image files to be used.
+var theImages = new Array() // do not change this
+// To add more image files, continue with the
+// pattern below, adding to the array.
+
+// do not edit anything below this line
+
+p = 31;
+var whichImage = Math.floor(Math.random()*(p))+1;
+function showImage(){
+document.write('<img src="images/logo/n'+whichImage+'.png">');
+}
+
+//  End -->
+</script>
 
   <div class="wrap">
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="http://placehold.it/500x150"></a>
+    <a class="site-title" href="{{ site.baseurl }}/">
+	
+<script language="JavaScript">
+<!-- Begin
+showImage();
+//  End -->
+</script>
+	
+	</a>
     
     <nav class="navbar">
       <div class="container">
