@@ -193,12 +193,12 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 32px;
+        height: 32px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: #00aced;
         }
     }
 }
