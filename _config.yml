@@ -9,3 +9,4 @@ update-time: Updated Jan. 2017
 # Build settings
 markdown: kramdown
 permalink: pretty
+google_analytics: UA-34491264-2
