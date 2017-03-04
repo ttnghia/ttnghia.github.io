@@ -14,9 +14,10 @@
 
 
 {% for category in site.categories %}
+<h1>{{ category | first }}</h1>
     {% for posts in category %}
       {% for post in posts %}
-    {% cycle 'add row' : '<div class="row">', nil, nil %}
+        {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
                 <a href="{{ post.url | prepend: site.baseurl }}">
@@ -25,8 +26,9 @@
                 {{ post.title }}
            </div>
         </div>
-{% cycle 'end row' : nil, nil, '</div>' %}
-{% endfor %}
-{% cycle 'end row' : nil, '</div>', '</div>' %}
+        {% cycle 'end row' : nil, nil, '</div>' %}
       {% endfor %}
+      {% cycle 'end row' : nil, '</div>', '</div>' %}
+    {% endfor %}
+	<hr>
 {% endfor %}
