@@ -4,6 +4,6 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+I am a PhD student in Scientific Computing track at School of Computing, University of Utah, working with [Cem Yuksel](http://http://cemyuksel.com/) since 2014. My research interests are in Computer Graphics including physically-based simulations and real-time rendering. Before comming to the UoU, I did my BSc and MSc at Department of Mechanics and Mathematics, Tula State University, Russia and worked as software developer at Saigon Institute for Computational Science and Technology, Ho Chi Minh city, Vietnam.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+Contact: ![email-image](/images/email.png)
