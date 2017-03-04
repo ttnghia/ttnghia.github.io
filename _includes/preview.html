@@ -10,7 +10,7 @@
         </div>
 {% cycle 'end row' : nil, nil, '</div>' %}
 {% endfor %}
-{% cycle 'end row' : nil, '</div>', '</div>' %}
+
 
 
 {% for category in site.categories %}
@@ -28,7 +28,7 @@
         </div>
         {% cycle 'end row' : nil, nil, '</div>' %}
       {% endfor %}
-      {% cycle 'end row' : nil, '</div>', '</div>' %}
     {% endfor %}
 	<hr>
 {% endfor %}
+      {% cycle 'end row' : nil, '</div>', '</div>' %}
