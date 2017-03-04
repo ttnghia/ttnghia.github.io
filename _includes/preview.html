@@ -1,8 +1,5 @@
-
-{% for category in site.categories %}
-    <h2>{{ category | first }}</h1>
-    {% for posts in category %}
-      {% for post in posts %}
+    <h2>Simulation</h1>
+    {% for post in site.categories.Simulation %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
@@ -12,9 +9,7 @@
                 {{ post.title }}
            </div>
         </div>
-        {% cycle 'end row' : '</div>', nil, nil %}
-      {% endfor %}
+        {% cycle 'end row' : nil, nil, '</div>' %}
     {% endfor %}
-	<hr>
 	{% cycle 'end row' : nil, '</div>', '</div>' %}
-{% endfor %}
+	<hr>
