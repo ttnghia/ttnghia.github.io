@@ -2,7 +2,6 @@
     <h2>{{ category | first }}</h1>
     {% for posts in category %}
       {% for post in posts %}
-	   {% if post.url %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
@@ -13,7 +12,6 @@
            </div>
         </div>
         {% cycle 'end row' : nil, nil, '</div>' %}
-		{% endif %}
       {% endfor %}
     {% endfor %}
 	<hr>
