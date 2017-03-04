@@ -18,8 +18,8 @@
 }
 </style>
 
-    <div class="category">Simulation</div>
 	<div class="category-content">
+	<div class="category">Simulation</div>
     {% for post in site.categories.Simulation %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
@@ -35,9 +35,8 @@
 	{% cycle 'end row' : nil, '</div>', '</div>' %}
 	</div>
 	
-	<hr>
-	<div class="category">Rendering</div>
 	<div class="category-content">
+	<div class="category">Rendering</div>
     {% for post in site.categories.Rendering %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
@@ -54,8 +53,8 @@
 	</div>
 	
 	
-	<div class="category">VFX</div>
 	<div class="category-content">
+	<div class="category">VFX</div>
     {% for post in site.categories.VFX %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
