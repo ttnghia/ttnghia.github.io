@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-06 15:39:40
+title:  "Rendering"
+date:   2015-10-09 15:39:40
 preview: http://placehold.it/300x300
+category: Rendering
+tags: [Rendering]
 ---
 
 ![Picture 1](http://placehold.it/800x600)
 
-Tada.
+Blah blah blah
