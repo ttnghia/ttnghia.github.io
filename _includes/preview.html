@@ -8,10 +8,14 @@
 	font-weight: bold;
     padding: 5px;
 }
+
+.category-content {
+    border: 1px solid #e8e8e8;
+}
 </style>
 
     <div class="category">Simulation</div>
-	<div>
+	<div class="category-content">
     {% for post in site.categories.Simulation %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
@@ -29,7 +33,7 @@
 	
 	<hr>
 	<div class="category">Rendering</div>
-	<div>
+	<div class="category-content">
     {% for post in site.categories.Rendering %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
@@ -46,9 +50,8 @@
 	</div>
 	
 	
-	<hr>
 	<div class="category">VFX</div>
-	<div>
+	<div class="category-content">
     {% for post in site.categories.VFX %}
         {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
