@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "VFX"
-date:   2015-10-09 15:39:40
+title:  "Rigid Body Simulation"
+date:   2017-03-14 17:08:00
 preview: /images/rigid-body-simulation/apples.jpg
 category: VFX
 tags: [Visual Effect, VFX]
