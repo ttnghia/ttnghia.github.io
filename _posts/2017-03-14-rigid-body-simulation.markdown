@@ -2,7 +2,7 @@
 layout: post
 title:  "Rigid Body Simulation"
 date:   2017-03-14 17:08:00
-preview: /images/rigid-body-simulation/apples.jpg
+preview: /images/2017-03-14-rigid-body-simulation/apples.jpg
 category: Animation
 tags: [Animation]
 ---
