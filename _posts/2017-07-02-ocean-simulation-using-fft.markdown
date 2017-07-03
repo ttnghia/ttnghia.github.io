@@ -7,8 +7,6 @@ category: Simulation
 tags: [Simulation]
 ---
 
-# Ocean Simulation using Fast Fourier Transform
-
 * The program is implemented in Qt 5.9 framework.
 * Multi-threading by Intel TBB and fftw3_threads libraries.
 * Skybox textures in folder Textures/Sky are automatically loaded at start up.
@@ -18,6 +16,7 @@ tags: [Simulation]
 * As my implementation depends on a lots of external libaries, the source code can only be compiled by me.
 
 ---
+
 
 # Screenshots:
 
@@ -31,9 +30,12 @@ tags: [Simulation]
 
 ---
 
+
 # Video:
 ---
 <iframe src="https://player.vimeo.com/video/223991874" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
 
 ---
 
