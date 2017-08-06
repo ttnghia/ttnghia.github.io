@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Fluid Simulation using Smoothed Particle Hydrodynamics (SPH)"
+title:  "Simple Fluid Simulation"
 date:   2017-08-06 21:50:00
 preview: /images/2017-08-06-simple-fluid-simulation/thumbnail.jpg
 category: Simulation

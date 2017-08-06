@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ocean Simulation using Fast Fourier Transform"
+title:  "Ocean Surface Simulation"
 date:   2017-07-02 21:50:00
 preview: /images/2017-07-02-ocean-simulation-using-fft/thumbnail.JPG
 category: Simulation
