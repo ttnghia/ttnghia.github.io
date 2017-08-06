@@ -36,7 +36,7 @@ tags: [Simulation]
 ---
 <br>
 # Code
-[https://github.com/ttnghia/FFTOceanSimulation](https://github.com/ttnghia/FFTOceanSimulation)
+[https://github.com/ttnghia/OceanSurfaceSimulation](https://github.com/ttnghia/OceanSurfaceSimulation)
 
 ---
 <br>
