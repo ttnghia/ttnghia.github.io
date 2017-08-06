@@ -20,11 +20,11 @@ tags: [Simulation]
 
 # Screenshots:
 
-![1](/images/2017-08-06-simple-fluid-simulation/1.jpg)
+![1](/images/2017-08-06-simple-fluid-simulation/1.png)
 
-![2](/images/2017-08-06-simple-fluid-simulation/2.jpg)
+![2](/images/2017-08-06-simple-fluid-simulation/2.png)
 
-![3](/images/2017-08-06-simple-fluid-simulation/3.jpg)
+![3](/images/2017-08-06-simple-fluid-simulation/3.png)
 
 ---
 <br>
