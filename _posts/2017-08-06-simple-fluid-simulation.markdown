@@ -20,11 +20,11 @@ tags: [Simulation]
 
 # Screenshots:
 
-![1](/images/2017-07-02-ocean-simulation-using-fft/1.jpg)
+![1](/images/2017-08-06-simple-fluid-simulation/1.jpg)
 
-![2](/images/2017-07-02-ocean-simulation-using-fft/2.jpg)
+![2](/images/2017-08-06-simple-fluid-simulation/2.jpg)
 
-![3](/images/2017-07-02-ocean-simulation-using-fft/3.jpg)
+![3](/images/2017-08-06-simple-fluid-simulation/3.jpg)
 
 ---
 <br>
