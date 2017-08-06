@@ -35,4 +35,4 @@ tags: [Simulation]
 ---
 <br>
 # Code
-[Github repository](https://github.com/ttnghia/SimpleFluid)
+[https://github.com/ttnghia/SimpleFluid](https://github.com/ttnghia/SimpleFluid)
