@@ -37,3 +37,9 @@ tags: [Simulation]
 <br>
 # Code
 [Github repository](https://github.com/ttnghia/FFTOceanSimulation)
+
+---
+<br>
+# References
+
+The computation code in my program is adapted from this repository: [https://github.com/ZijinZheng/OceanSurface](https://github.com/ZijinZheng/OceanSurface)
