@@ -26,13 +26,14 @@ tags: [Simulation]
 
 ![3](/images/2017-08-06-simple-fluid-simulation/3.png)
 
----
 <br>
-# Video:
----
-<iframe src="https://player.vimeo.com/video/228570357" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+---
+# Video:
+
+<iframe src="https://player.vimeo.com/video/228570357" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
+
 ---
 # Code:
 [https://github.com/ttnghia/SimpleFluid](https://github.com/ttnghia/SimpleFluid)

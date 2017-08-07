@@ -27,16 +27,19 @@ tags: [Simulation]
 
 ![4](/images/2017-07-02-ocean-simulation-using-fft/4.JPG)
 
----
 <br>
-# Video:
+
 ---
+# Video:
+
 <iframe src="https://player.vimeo.com/video/223991874" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br>
+
 ---
 # Code:
 [https://github.com/ttnghia/OceanSurfaceSimulation](https://github.com/ttnghia/OceanSurfaceSimulation)
 <br>
+
 ---
 # References:
 
