@@ -32,14 +32,12 @@ tags: [Simulation]
 # Video:
 ---
 <iframe src="https://player.vimeo.com/video/223991874" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
----
 <br>
-# Code
+---
+# Code:
 [https://github.com/ttnghia/OceanSurfaceSimulation](https://github.com/ttnghia/OceanSurfaceSimulation)
-
----
 <br>
-# References
+---
+# References:
 
 The computation code in my program is adapted from this repository: [https://github.com/ZijinZheng/OceanSurface](https://github.com/ZijinZheng/OceanSurface)
