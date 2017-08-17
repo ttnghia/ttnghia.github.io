@@ -10,9 +10,8 @@ tags: [Rendering]
 * The program is written for my personal testing of signed distance field implementation.
 * Particles are generated and grouped into two parts: one with particles at negative distance values to object surface (inside), and one with particles at positve distance values (outside). The particles' colors fall off as the absolute distance increasing.
 * Support clipped-plane to look inside the object.
-<!---  A Prebuild has been provided to run immediately. --->
 * Signed distance functions for various primitives are implemented. Constructive solid geometry is considered as a nested signed distance function.
-* Signed distance field for triangle mesh is much more difficult. Its implementation is adapted by Chris Batty's implementation [2].
+* Signed distance field for triangle mesh is much more difficult. Its implementation is adapted by [Chris Batty's implementation](https://github.com/christopherbatty/SDFGen).
 ---
 
 # Screenshots:
