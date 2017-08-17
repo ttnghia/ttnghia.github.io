@@ -29,7 +29,6 @@ tags: [Rendering]
 ![3](/images/2017-08-16-sdf-visualizer/6.png)
 
 ![3](/images/2017-08-16-sdf-visualizer/7.png)
-
 <br>
 
 ---
