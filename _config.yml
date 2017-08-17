@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ttnghia.github.io" # the base hostname & protocol for your site
 twitter_username: nghiatruong_vn
 github_username:  ttnghia
-update-time: Updated Mar. 2017
+update-time: Updated Aug. 2017
 # Build settings
 markdown: kramdown
 permalink: pretty
