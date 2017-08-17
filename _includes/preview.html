@@ -21,7 +21,7 @@
 	<div class="category-content">
 	<div class="category">Simulation</div>
     {% for post in site.categories.Simulation %}
-        {% cycle 'add row' : '<div class="row">', nil, nil %}
+        {% cycle 'add row' : '<div class="row">', null, null %}
         <div class="col-sm-4">
             <div class="preview-panel">
                 <a href="{{ post.url | prepend: site.baseurl }}">
@@ -30,15 +30,15 @@
                 {{ post.title }}
            </div>
         </div>
-        {% cycle 'end row' : nil, nil, '</div>' %}
+        {% cycle 'end row' : null, null, '</div>' %}
     {% endfor %}
-	{% cycle 'end row' : nil, '</div>', '</div>' %}
+	{% cycle 'end row' : null, '</div>', '</div>' %}
 	</div>
 	
 	<div class="category-content">
 	<div class="category">Rendering</div>
     {% for post in site.categories.Rendering %}
-        {% cycle 'add row' : '<div class="row">', nil, nil %}
+        {% cycle 'add row' : '<div class="row">', null, null %}
         <div class="col-sm-4">
             <div class="preview-panel">
                 <a href="{{ post.url | prepend: site.baseurl }}">
@@ -47,16 +47,16 @@
                 {{ post.title }}
            </div>
         </div>
-        {% cycle 'end row' : nil, nil, '</div>' %}
+        {% cycle 'end row' : null, null, '</div>' %}
     {% endfor %}
-	{% cycle 'end row' : nil, '</div>', '</div>' %}
+	{% cycle 'end row' : null, '</div>', '</div>' %}
 	</div>
 	
 	
 	<div class="category-content">
 	<div class="category">Animation</div>
     {% for post in site.categories.Animation %}
-        {% cycle 'add row' : '<div class="row">', nil, nil %}
+        {% cycle 'add row' : '<div class="row">', null, null %}
         <div class="col-sm-4">
             <div class="preview-panel">
                 <a href="{{ post.url | prepend: site.baseurl }}">
@@ -65,7 +65,7 @@
                 {{ post.title }}
            </div>
         </div>
-        {% cycle 'end row' : nil, nil, '</div>' %}
+        {% cycle 'end row' : null, null, '</div>' %}
     {% endfor %}
-	{% cycle 'end row' : nil, '</div>', '</div>' %}
+	{% cycle 'end row' : null, '</div>', '</div>' %}
 	</div>
