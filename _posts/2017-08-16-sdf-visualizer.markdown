@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Signed Distance Field Visualizer"
+title:  "Signed Distance Field Visualizer"
 date:   2017-08-16 21:50:00
 preview: /images/2017-08-16-sdf-visualizer/thumbnail.jpg
 category: Rendering
