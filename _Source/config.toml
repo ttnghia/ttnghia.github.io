@@ -1,3 +1,4 @@
+# baseurl = "http://localhost:8000/"
 baseurl = "https://ttnghia.github.io/"
 title = "Nghia Truong"
 theme = "hugo-creative-portfolio-theme"

@@ -32,7 +32,9 @@ Demo (Coming soon)
 <div style="position:relative;padding-top:60%;">
 <iframe src="https://player.vimeo.com/video/264166270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
+<br/>
 
+---
 <img src="/img/portfolio/narrow-range-filter/armadillo.jpg" alt="A Narrow-Range Filter for Screen-Space Fluid Rendering" style="width: 100%;"/>
 
 <img src="/img/portfolio/narrow-range-filter/bunny.jpg" alt="A Narrow-Range Filter for Screen-Space Fluid Rendering" style="width: 100%;"/>
