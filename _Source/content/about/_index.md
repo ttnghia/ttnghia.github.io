@@ -5,6 +5,9 @@ title = "About me"
 
 ![This is me][1]
 
+
+<sub>\*Warning: Above is not me! And also not my drawing.</sub>
+
 I am a PhD student in Scientific Computing track at School of Computing, University of Utah, working with [Cem Yuksel](http://cemyuksel.com/) since 2014 on physically-based simulations for computer graphics. Alongside graphics, I am also interested in computer vision, machine learning and software engineering. Before comming to the UoU, I did my BSc and MSc at Department of Mechanics and Mathematics, [Tula State University](http://tsu.tula.ru), Russia and worked as software developer at [Saigon Institute for Computational Science and Technology](http://icst.org.vn/en/), Ho Chi Minh city, Vietnam.
 
 The best way to contact me is through my email: ![email-image](/img/email.png)

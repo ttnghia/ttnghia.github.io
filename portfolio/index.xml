@@ -29,5 +29,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Signed Distance Field Visualizer</title>
+      <link>https://ttnghia.github.io/portfolio/sdf-visualizer/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttnghia.github.io/portfolio/sdf-visualizer/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Simple Fluid Solvers</title>
+      <link>https://ttnghia.github.io/portfolio/simple-fluid-solvers/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttnghia.github.io/portfolio/simple-fluid-solvers/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FFT-based Ocean Surface Simulation</title>
+      <link>https://ttnghia.github.io/portfolio/ocean-surface-simulation/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttnghia.github.io/portfolio/ocean-surface-simulation/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
