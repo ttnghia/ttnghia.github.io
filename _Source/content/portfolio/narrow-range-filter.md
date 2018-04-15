@@ -49,4 +49,4 @@ Demo (Coming soon)
 
 ---
 
-Updated April 2018.
+Updated: April 2018.

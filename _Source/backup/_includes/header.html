@@ -1,0 +1,53 @@
+<header class="site-header">
+<script language="JavaScript">
+
+<!-- Begin
+// Set up the image files to be used.
+var theImages = new Array() // do not change this
+// To add more image files, continue with the
+// pattern below, adding to the array.
+
+// do not edit anything below this line
+
+p = 31;
+var whichImage = Math.floor(Math.random()*(p))+1;
+function showImage(){
+document.write('<img src="https://ttnghia.github.io/images/logo/n'+whichImage+'.png">');
+}
+
+//  End -->
+</script>
+
+  <div class="wrap">
+    <a class="site-title" href="{{ site.baseurl }}/">
+	
+<script language="JavaScript">
+<!-- Begin
+showImage();
+//  End -->
+</script>
+	
+	</a>
+    
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>          
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/">Home</a></li>
+			<li><a href="/blog">Blog</a></li>
+            <li><a href="/about">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+  </nav>
+
+</header>

@@ -54,4 +54,4 @@ Code with windows prebuild: [https://github.com/ttnghia/OceanSurfaceSimulation](
 
 ---
 
-Updated April 2018.
+Updated: April 2018.

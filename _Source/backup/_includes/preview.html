@@ -1,0 +1,74 @@
+<style type="text/css">
+.category {
+    background: rgba(204, 204, 204, 0.1);;
+    width: 100%;
+    text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+    padding: 5px;
+}
+
+.category-content {
+    border: 1px solid #e8e8e8;
+    margin-top: 50px;
+}
+
+.preview-panel {
+    text-align: center;
+}
+</style>
+
+	<div class="category-content">
+	<div class="category">Simulation</div>
+	<div class="row"> <!-- add this temporarily -->
+    {% for post in site.categories.Simulation %}
+<!--        {% cycle 'add row' : '<div class="row">', nil, nil %} -->
+        <div class="col-sm-4">
+            <div class="preview-panel">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <img src="{{ post.preview | prepend: site.baseurl }}">
+                </a>
+                {{ post.title }}
+           </div>
+        </div>
+<!--        {% cycle 'end row' : nil, nil, '</div>' %} -->
+    {% endfor %}
+<!--	{% cycle 'end row' : nil, '</div>', '</div>' %} -->
+	</div>
+	
+	<div class="category-content">
+	<div class="category">Rendering</div>
+	<div class="row"> <!-- add this temporarily -->
+    {% for post in site.categories.Rendering %}
+<!--        {% cycle 'add row' : '<div class="row">', nil, nil %} -->
+        <div class="col-sm-4">
+            <div class="preview-panel">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <img src="{{ post.preview | prepend: site.baseurl }}">
+                </a>
+                {{ post.title }}
+           </div>
+        </div>
+<!--        {% cycle 'end row' : nil, nil, '</div>' %} -->
+    {% endfor %}
+<!--	{% cycle 'end row' : nil, '</div>', '</div>' %} -->
+	</div>
+	
+	
+	<div class="category-content">
+	<div class="category">Animation</div>
+	<div class="row"> <!-- add this temporarily -->
+    {% for post in site.categories.Animation %}
+<!--        {% cycle 'add row' : '<div class="row">', nil, nil %} -->
+        <div class="col-sm-4">
+            <div class="preview-panel">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <img src="{{ post.preview | prepend: site.baseurl }}">
+                </a>
+                {{ post.title }}
+           </div>
+        </div>
+<!--        {% cycle 'end row' : nil, nil, '</div>' %} -->
+    {% endfor %}
+<!--	{% cycle 'end row' : nil, '</div>', '</div>' %} -->
+	</div>

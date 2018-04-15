@@ -50,5 +50,5 @@ Code with windows prebuild: [https://github.com/ttnghia/SimpleFluid](https://git
 
 ---
 
-Updated April 2018.
+Updated: April 2018.
 

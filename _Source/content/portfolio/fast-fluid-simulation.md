@@ -36,4 +36,4 @@ We introduce efficient, large scale fluid simulation on GPU hardware using the f
 
 ---
 
-Updated April 2018.
+Updated: April 2018.

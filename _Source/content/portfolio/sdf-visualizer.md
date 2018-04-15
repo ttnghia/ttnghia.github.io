@@ -46,4 +46,4 @@ Code (can compile only by me): [https://github.com/ttnghia/SDFVisualizer](https:
 
 ---
 
-Updated April 2018.
+Updated: April 2018.
