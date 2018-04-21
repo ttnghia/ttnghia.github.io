@@ -16,8 +16,8 @@ Nghia Truong & [Cem Yuksel](http://cemyuksel.com/) <br/>
 
 
 #### Abstract
-We introduce a simple screen-space fltering technique for realtime rendering of particle-based ﬂuid simulations. Starting with a depth-map generated directly from the particle data, our new flter formulation smooths the depth-map by considering the depth values in a narrow range. The depth values outside of this range are carefully handled to achieve the desired surface shape near discontinuities. The simplicity of our formulation leads to a computationally efcient flter. We present examples with complex particle-based
-ﬂuid simulations and provide comparisons, clearly showing that our flter provides improved surface quality in terms of surface smoothness and preserving boundaries near discontinuities, as compared to prior fltering methods.
+We introduce a simple screen-space filtering technique for real-time rendering of particle-based fluid simulations. Starting with a depth-map generated directly from the particle data, our new filter formulation smooths the depth-map by considering the depth values in a narrow range. The depth values outside of this range are carefully handled to achieve the desired surface shape near discontinuities. The simplicity of our formulation leads to a computationally efficient filter. We present examples with complex particle-based
+fluid simulations and provide comparisons, clearly showing that our filter provides improved surface quality in terms of surface smoothness and preserving boundaries near discontinuities, as compared to prior filtering methods.
 
 
 #### Download
