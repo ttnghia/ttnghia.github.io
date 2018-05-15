@@ -22,7 +22,7 @@ fluid simulations and provide comparisons, clearly showing that our filter provi
 
 #### Download
 [Paper (preprint, 23MB pdf)](/pdf/portfolio/NarrowRangeFilter.pdf) <br/>
-Demo (Coming soon)
+[Demo: https://github.com/ttnghia/RealTimeFluidRendering](https://github.com/ttnghia/RealTimeFluidRendering) <br/>
 
 ---
 <p align="center">
