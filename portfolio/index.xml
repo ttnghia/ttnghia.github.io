@@ -6,10 +6,19 @@
     <description>Recent content in Portfolios on Nghia Truong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ttnghia.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Particle Sampling with SPH-based Relaxation</title>
+      <link>https://ttnghia.github.io/portfolio/particle-sampling-with-sph-relaxation/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttnghia.github.io/portfolio/particle-sampling-with-sph-relaxation/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A Narrow-Range Filter for Screen-Space Fluid Rendering</title>
