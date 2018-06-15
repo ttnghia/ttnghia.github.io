@@ -112,10 +112,11 @@ ga('send', 'pageview');
 
 <p>I have struggled a lot in trying to generate particle objects with evenly distributed particles for my simulation projects and came up with several solutions. One of them is Lloyd relaxation, but it requires two levels particle sampling - one normal scale and one much smaller scale, leading to huge amount of memory usage and yields very slow performance. Another solution is using <a href="https://dl.acm.org/citation.cfm?id=2818102">SPH-based blue noise relaxation</a>, which has a very good performance and produces good results and became my top choice. I implement that algorithm in my program <code>ParticleSampler</code>, which allows to generate particles from given geometry objects, run relaxation over the generated particles, and save the results to disk for further processing somewhere else. More details about the program and its usage is discussed more in detail in my github project below.</p>
 
-<h4 id="download">Download</h4>
+<h4 id="program">Program</h4>
 
 <ul>
-<li>Github repository with more description: <a href="https://github.com/ttnghia/ParticleSampler">https://github.com/ttnghia/ParticleSampler</a></li>
+<li>Windows binary with example scenes: <a href="https://github.com/ttnghia/ParticleSampler/releases">https://github.com/ttnghia/ParticleSampler/releases</a></li>
+<li>Github repository with more description and usage: <a href="https://github.com/ttnghia/ParticleSampler">https://github.com/ttnghia/ParticleSampler</a></li>
 </ul>
 
 <hr />

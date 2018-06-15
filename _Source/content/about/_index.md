@@ -13,7 +13,7 @@ I am a PhD student in Scientific Computing track at School of Computing, Univers
 The best way to contact me is through my email: ![email-image](/img/email.png)
 
 
-Beyond research and coding, I very like foods, musics, and computers. This is a list of indispensable current and alumni minions, which are also my love and my passion:
+Beyond research and coding, I like foods, musics, and (powerful) computers. This is a list of my indispensable current and alumni computers, which are also my love and my passion:
 
 * 2017: PC: Intel Core i9-7900X 3.3Ghz (10 cores), 64GB RAM, 1TB SSD + 500GB SSD + 1TB HDD + 24TB external HDD, NVIDIA GTX 1080 8GB GDDR5, 38" WQHD+ monitor.
 * 2016: Laptop: Surface Pro 4, Intel Core i7 6650U 2.2Ghz, 16GB RAM, 256GB SSD.
