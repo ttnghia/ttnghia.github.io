@@ -3,32 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/particle-sampling-with-sph-relaxation/</loc>
+    <loc>https://ttnghia.github.io/portfolio/tool-particle-sampling-with-sph-relaxation/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/narrow-range-filter/</loc>
+    <loc>https://ttnghia.github.io/portfolio/tool-particle-visualizer/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ttnghia.github.io/portfolio/paper-narrow-range-filter/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/fast-fluid-simulation/</loc>
+    <loc>https://ttnghia.github.io/portfolio/paper-fast-fluid-simulation/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/sdf-visualizer/</loc>
+    <loc>https://ttnghia.github.io/portfolio/project-sdf-visualizer/</loc>
     <lastmod>2017-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/simple-fluid-solvers/</loc>
+    <loc>https://ttnghia.github.io/portfolio/project-simple-fluid-solvers/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/ocean-surface-simulation/</loc>
+    <loc>https://ttnghia.github.io/portfolio/project-ocean-surface-simulation/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
   </url>
   
