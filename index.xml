@@ -6,10 +6,32 @@
     <description>Recent content on Nghia Truong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ttnghia.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Project] Material Point Method for Elastoplastic Simulations</title>
+      <link>https://ttnghia.github.io/portfolio/project-mpm-for-elastoplastic-simulations/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttnghia.github.io/portfolio/project-mpm-for-elastoplastic-simulations/</guid>
+      <description>Description This page contains various simulations as the results of parameter-turning experiments during developing my simulation framework with Material Point Method. As it is an on-going project, source code cannot be able to release at this moment.
+References My simulations are produced by implementing the following papers:
+ Drucker-prager elastoplasticity for sand animation Anisotropic elastoplasticity for cloth, knit and hair frictional contact  Please be patient! Animation (images) below need some time to load&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>[Tool] Particle Visualizer</title>
+      <link>https://ttnghia.github.io/portfolio/tool-particle-visualizer/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttnghia.github.io/portfolio/tool-particle-visualizer/</guid>
+      <description>Description This is a simple tool for visualizing particle-based simulation data quickly. The input data need to be written as a file sequence (such as animation.0001.obj, animation.0002.obj etc).
+Currently, there are 3 file formats supported: Partio (*.bgeo), Wavefront (*.obj), and binary (*.bin or *.pos). More details, program usage, program binary (Win64) and examples data (three animations in this page) are provided in my github repository in the following section.
+Program  Windows binary with example data: https://github.</description>
+    </item>
     
     <item>
       <title>[Tool] Particle Sampling with SPH-based Relaxation</title>
@@ -17,16 +39,7 @@
       <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ttnghia.github.io/portfolio/tool-particle-sampling-with-sph-relaxation/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>[Tool] Particle Visualizer</title>
-      <link>https://ttnghia.github.io/portfolio/tool-particle-visualizer/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ttnghia.github.io/portfolio/tool-particle-visualizer/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Description Particle-based simulation is prevalent in computer graphics. In order to run the simulations, we firstly need to have particles. Therefore, generating particles in a desired distribution is very important, if not indispensable. If the simulation resolution is not high enough, uneven distributed particles could probably lead to wrong solutions, or at least ugly looking results. This problem is more notorious in fluid simulation: rendering water simulated by bad particle distribution will result in bumpy surfaces.</description>
     </item>
     
     <item>
@@ -35,7 +48,7 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ttnghia.github.io/portfolio/paper-narrow-range-filter/</guid>
-      <description></description>
+      <description>Nghia Truong &amp; [Cem Yuksel](http://cemyuksel.com/)  [ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2018](http://i3dsymposium.github.io/2018/)  Abstract We introduce a simple screen-space filtering technique for real-time rendering of particle-based fluid simulations. Starting with a depth-map generated directly from the particle data, our new filter formulation smooths the depth-map by considering the depth values in a narrow range. The depth values outside of this range are carefully handled to achieve the desired surface shape near discontinuities.</description>
     </item>
     
     <item>
@@ -44,7 +57,7 @@
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ttnghia.github.io/portfolio/paper-fast-fluid-simulation/</guid>
-      <description></description>
+      <description>[Kui Wu](http://www.cs.utah.edu/~kwu/), Nghia Truong, [Cem Yuksel](http://cemyuksel.com/), [Rama Hoetzlein](http://www.ramakarl.com/website/)  [Eurographics 2018](https://www.eurographics2018.nl/)  Abstract We introduce efficient, large scale fluid simulation on GPU hardware using the fluid-implicit particle (FLIP) method over a sparse hierarchy of grids represented in NVIDIA GVDB Voxels. Our approach handles tens of millions of particles within a virtually unbounded simulation domain. We describe novel techniques for parallel sparse grid hierarchy construction and fast incremental updates on the GPU for moving particles.</description>
     </item>
     
     <item>
@@ -53,7 +66,7 @@
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ttnghia.github.io/portfolio/project-sdf-visualizer/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Description  The program is written for my personal testing of signed distance field implementation. Particles are generated and grouped into two parts: one with particles at negative distance values to object surface (inside), and one with particles at positve distance values (outside). The particles&amp;rsquo; colors fall off as the absolute distance increasing. Signed distance functions for various primitives are implemented. Constructive solid geometry is considered as a nested signed distance function.</description>
     </item>
     
     <item>
@@ -62,7 +75,7 @@
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ttnghia.github.io/portfolio/project-simple-fluid-solvers/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Description  Fluid simulation using Smoothed Particle Hydrodynamics (SPH) solver The program is implemented in Qt 5.9 framework. Multi-threading by Intel TBB libary. Show real-time memory usage. Skybox textures in folder Textures/Sky are automatically loaded at start up. Press Spacebar key to pause/resume the simulation. Press &amp;lsquo;R&amp;rsquo; key to reset camera view. A Prebuild has been provided to run immediately. As my implementation depends on a lot of external libaries, the source code can only be compiled by me.</description>
     </item>
     
     <item>
@@ -71,7 +84,7 @@
       <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ttnghia.github.io/portfolio/project-ocean-surface-simulation/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Description  The program is implemented in Qt 5.9 framework. Multi-threading by Intel TBB and fftw3_threads libraries. Skybox textures in folder Textures/Sky are automatically loaded at start up. Press Spacebar key to pause/resume the simulation. Simulation parameters can be changed and take effects in real time. A binary (in Pre-Build folder) has been provided. As my implementation depends on a lot of external libaries, the source code can only be compiled by me.</description>
     </item>
     
   </channel>

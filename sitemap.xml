@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ttnghia.github.io/portfolio/tool-particle-sampling-with-sph-relaxation/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <loc>https://ttnghia.github.io/portfolio/project-mpm-for-elastoplastic-simulations/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ttnghia.github.io/portfolio/tool-particle-visualizer/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ttnghia.github.io/portfolio/tool-particle-sampling-with-sph-relaxation/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -49,13 +54,13 @@
   
   <url>
     <loc>https://ttnghia.github.io/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ttnghia.github.io/portfolio/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
