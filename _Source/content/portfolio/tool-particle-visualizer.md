@@ -24,9 +24,9 @@ Currently, there are 3 file formats supported: Partio (`*.bgeo`), Wavefront (`*.
 
 <p align="center"> <h4 align="center">Screenshots and Videos</h4> </p>
 <p align="center">
-<img src="/img/portfolio/tool-particle-visualizer/BunnyFluid.gif" alt="A screenshot of the program" style="width: 75%;"/>
-<img src="/img/portfolio/tool-particle-visualizer/TwoDragons.gif" alt="A screenshot of the program" style="width: 75%;"/>
-<img src="/img/portfolio/tool-particle-visualizer/StrandCollisions.gif" alt="A screenshot of the program" style="width: 75%;"/>
+<img src="/img/portfolio/tool-particle-visualizer/BunnyFluid.gif" alt="A screenshot of the program" style="width: 90%;"/>
+<img src="/img/portfolio/tool-particle-visualizer/TwoDragons.gif" alt="A screenshot of the program" style="width: 90%;"/>
+<img src="/img/portfolio/tool-particle-visualizer/StrandCollisions.gif" alt="A screenshot of the program" style="width: 90%;"/>
 </p>
 
 ---
