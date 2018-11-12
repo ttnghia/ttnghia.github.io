@@ -4,6 +4,7 @@ title = "[Paper] A Narrow-Range Filter for Screen-Space Fluid Rendering"
 draft = false
 image = "img/portfolio/paper-narrow-range-filter/thumbnail.jpg"
 showonlyimage = false
+description = " "
 weight = 1
 +++
 

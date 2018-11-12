@@ -4,6 +4,7 @@ title = "[Project] Signed Distance Field Visualizer"
 draft = false
 image = "img/portfolio/project-sdf-visualizer/thumbnail.png"
 showonlyimage = false
+description = " "
 weight = 1
 +++
 

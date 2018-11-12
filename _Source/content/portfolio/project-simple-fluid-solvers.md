@@ -4,6 +4,7 @@ title = "[Project] Simple Fluid Solvers"
 draft = false
 image = "img/portfolio/project-simple-fluid-solvers/thumbnail.png"
 showonlyimage = false
+description = " "
 weight = 1
 +++
 

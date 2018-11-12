@@ -4,6 +4,7 @@ title = "[Paper] Fast Fluid Simulations with Sparse Volumes on the GPU"
 draft = false
 image = "img/portfolio/paper-fast-fluid-simulation/thumbnail.jpg"
 showonlyimage = false
+description = " "
 weight = 1
 +++
 

@@ -4,6 +4,7 @@ title = "[Project] FFT-based Ocean Surface Simulation"
 draft = false
 image = "img/portfolio/project-fft-based-ocean-simulation/thumbnail.jpg"
 showonlyimage = false
+description = " "
 weight = 1
 +++
 
