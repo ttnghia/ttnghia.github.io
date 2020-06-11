@@ -1,21 +1,21 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "https://ttnghia.github.io/"
+title = "Nghia Truong"
 theme = "zzo"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-hasCJKLanguage = true
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+defaultContentLanguageInSubdir = false # baseURL/en/, baseURL/kr/ ...
+hasCJKLanguage = false # Set `true` for Chinese/Japanese/Korean languages.
 
-summaryLength = 70
-buildFuture = true
+summaryLength = 70 # The length of a post description on a list page.
+buildFuture = true # if true, we can use future date for talks page
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 13 # Number of items per page in paginated lists.
 rssLimit = 100
 
-enableGitInfo = false
+enableGitInfo = false # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
 googleAnalytics = ""
 
 [markup]
@@ -30,7 +30,7 @@ googleAnalytics = ""
     lineNumbersInTable = true
     noClasses = false
   [markup.tableOfContents]
-    endLevel = 4
+    endLevel = 3
     ordered = false
     startLevel = 2
 

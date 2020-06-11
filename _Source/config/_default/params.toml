@@ -1,16 +1,17 @@
-logoText = "Zzo"
-logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
-custom_css = []
-custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+logoText = "Main" # Logo text that appears in the site navigation bar.
+logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
+logo = true # Logo that appears in the site navigation bar.
+description = "Nghia Truong' personal website." # for SEO
+custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
+custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
+useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"] # not allowed page types in home page. type can be set in front matter or default to folder name.
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"] # not allowed page types in home page sidebar(recent post titles).
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"] # not allowed page types in archive page
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
@@ -25,31 +26,35 @@ homeHeaderType = "text" # text, img, slide
 # menu
 showMobileMenuTerms = ["tags", "categories", "series"]
 
+
+# navbar
+enableThemeChange = true # site color theme
+
 # body
-enableBreadcrumb = true
+enableBreadcrumb = true # breadcrumb for list, single page
 enablePhotoSwipe = true
-enableSearch = true
+enableSearch = true # site search with Fuse
 enableSearchHighlight = true
 enableGoToTop = true
 enableWhoami = true
 summaryShape = "classic" # card, classic, compact
 searchResultPosition = "main" # side, main
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
-archivePaginate = 13
-paginateWindow = 1
-talksPaginate = 5
+archivePaginate = 13 # items per page
+paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: [1 ... 4 5 6 ... 356] [1 2 3 4 5 ... 356] etc
+talksPaginate = 5 # items per page
 talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-bioImageUrl = ""
-useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://zzossig.io/ko"
+myname = "Nghia Truong"
+email = "nghiatruong.vn [gmail.com]"
+whoami = "Software Developer"
+bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
+useGravatar = false # we use this option highest priority
+location = "Utah, USA"
+organization = "University of Utah"
+link = ""
 
 # sidebar
 enableBio = true
@@ -60,30 +65,29 @@ enableSidebarSeries = true
 enableSidebarCategories = true
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
-enableToc = true
+enableToc = true # single page table of contents, you can replace this param to toc(toc = true)
 hideToc = false
-tocFolding = true
+tocFolding = false
 tocPosition = "inner" # inner, outer
-enableTocSwitch = true
-itemsPerCategory = 5
-sidebarPosition = "right"
-tocLevels = ["h2", "h3", "h4"]
-enableSidebarPostsByOrder = false
+enableTocSwitch = true # single page table of contents visibility switch
+itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
+sidebarPosition = "right" # bio, profile component layout position
+tocLevels = ["h2", "h3", "h4"] # minimum h2, maximum h4 in your article
+enableSidebarPostsByOrder = false # another lists in the sidebar
 
 # footer
-showPoweredBy = true
-showFeedLinks = true
-showSocialLinks = true
-enableLangChange = true
-enableThemeChange = true
+showPoweredBy = false # show footer text: Powered by Hugo and Zzo theme
+showFeedLinks = true # RSS Feed 
+showSocialLinks = false # email, facebook, twitter ...
+enableLangChange = false # show button at bottom left of footer.
 
 # service
 googleTagManager = "" # GTM-XXXXXX
 baiduAnalytics = ""
-enableBusuanzi = false
-busuanziSiteUV = true
-busuanziSitePV = true
-busuanziPagePV = true
+enableBusuanzi = true # if set true, total page view, total unique visitors show up in the footer.
+busuanziSiteUV = true # unique visitors (total number of visitors)
+busuanziSitePV = true # site total page view count
+busuanziPagePV = true # post view count
 
 # rss
 updatePeriod = "" # Possible values: 'hourly', 'daily', 'weekly', 'monthly', or 'yearly'.
@@ -143,18 +147,18 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:nghiatruong.vn@email.com"
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "https://twitter.com/nghiatruong_vn"
+  github = "https://github.com/ttnghia"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
   youtube = ""
   medium = ""
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/nghia-truong-85971422"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
@@ -172,7 +176,7 @@ commento = false
   xmpp = ""
   dev-to = ""
   gitea = ""
-  google-scholar = ""
+  google-scholar = "https://scholar.google.com/citations?user=w9iZTnEAAAAJ&hl=en"
 
 [donationOptions]
   enable = false
