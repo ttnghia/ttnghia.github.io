@@ -9,10 +9,10 @@ meta_image = ""
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"] # not allowed page types in home page. type can be set in front matter or default to folder name.
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"] # not allowed page types in home page sidebar(recent post titles).
-notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"] # not allowed page types in archive page
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "resume"] # not allowed page types in home page. type can be set in front matter or default to folder name.
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "resume"] # not allowed page types in home page sidebar(recent post titles).
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "resume"] # not allowed page types in archive page
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "resume", "gallery"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
@@ -40,7 +40,7 @@ enableWhoami = true
 summaryShape = "classic" # card, classic, compact
 searchResultPosition = "main" # side, main
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
-archivePaginate = 13 # items per page
+archivePaginate = 100 # items per page
 paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: [1 ... 4 5 6 ... 356] [1 2 3 4 5 ... 356] etc
 talksPaginate = 5 # items per page
 talksGroupByDate = "2006"
