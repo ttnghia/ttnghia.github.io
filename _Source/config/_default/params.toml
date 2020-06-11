@@ -48,11 +48,11 @@ pubPaginate = 20
 
 # whoami
 myname = "Nghia Truong"
-email = "nghiatruong.vn [gmail.com]"
-whoami = "Software Developer"
+email = "nghiatruong.vn [@gmail.com]"
+whoami = "Ph.D. Candidate in Scientific Computing"
 bioImageUrl = "" # image url like "http//..." or "images/anyfoldername/mybioimage.jpg" If not set, we find a avatar image in root/static/images/whoami/avatar.(png|jpg|svg)
 useGravatar = false # we use this option highest priority
-location = "Utah, USA"
+location = "Salt Lake City, Utah, USA"
 organization = "University of Utah"
 link = ""
 

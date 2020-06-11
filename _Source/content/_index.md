@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Nghia Truong
     subtitle:
-      - The world’s fastest framework for building websites
+      - (Trương Trọng Nghĩa)
     titleColor: 
     titleShadow: true
     titleFontSize: 44
