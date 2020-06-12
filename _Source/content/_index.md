@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Nghia Truong
+      - Life is...
     subtitle:
-      - (Trương Trọng Nghĩa)
+      - learning, eating, working, and sleeping
     titleColor: 
     titleShadow: true
     titleFontSize: 44
