@@ -13,20 +13,26 @@
 [[main]]
   identifier = "code"
   name = "Code"
-  url = "tag/code"
+  url = "tags/code"
   weight = 3
+  
+[[main]]
+  identifier = "animation"
+  name = "Animation"
+  url = "tags/animation"
+  weight = 4
   
 [[main]]
   identifier = "blog"
   name = "Blog"
   url = "tag/blog"
-  weight = 4
+  weight = 5
 
 [[main]]
   identifier = "gallery"
   name = "Gallery"
   url = "gallery"
-  weight = 5
+  weight = 6
     
 [[main]]
   parent = "gallery"
@@ -43,4 +49,4 @@
   identifier = "archive"
   name = "Archive"
   url = "archive"
-  weight = 6
+  weight = 7
