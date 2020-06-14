@@ -37,7 +37,6 @@ Currently, there are 3 file formats supported: Partio (`*.bgeo`), Wavefront (`*.
 
 
 ### Gallery (Animated GIFs)
-<p align="center"> <h4 align="center">Screenshots and Videos</h4> </p>
 <p align="center">
 <img src="/images/code-particle-visualizer/BunnyFluid.gif" alt="A screenshot of the program" style="width: 90%;"/>
 <br />
