@@ -32,6 +32,8 @@ A 2D fluid simulation using the APIC ([Affine Particle-in-Cell](https://dl.acm.o
 ### Download
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-fluidsimulation2d.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/fluidsimulation2d)
+[Windows binary](/exe/FluidSimulation2D.exe)
+
 
 
 ### Gallery

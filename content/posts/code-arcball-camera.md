@@ -29,6 +29,7 @@ This is an implementation of [Ken Shoemake's arcball camera](https://www.talisma
 ### Download
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-arcball.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/arcball)
+[Windows binary](/exe/ArcBallCamera.exe)
 
 
 ### Gallery

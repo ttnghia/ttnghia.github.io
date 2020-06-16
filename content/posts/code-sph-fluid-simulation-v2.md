@@ -34,6 +34,7 @@ I also had another SPH simulation code which only deals with static boundary [he
 ### Download
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-fluidsimulation3d.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/fluidsimulation3d)
+[Windows binary](/exe/SPHFluidSimulation.exe)
 
 
 ### Gallery

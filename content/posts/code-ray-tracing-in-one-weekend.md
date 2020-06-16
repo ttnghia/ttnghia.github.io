@@ -1,5 +1,5 @@
 ---
-title: "[Code] Ray Tracing Over The Weekend"
+title: "[Code] Ray Tracing In One Weekend"
 date: 2020-06-13T00:00:00-07:00
 description: 
 draft: false
@@ -33,6 +33,7 @@ This is an implementation of a simple ray tracer adapted from Peter Shirley's bo
 ### Download
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-raytracing.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/raytracing)
+[Windows binary](/exe/RayTracing.exe)
 
 
 ### Gallery
