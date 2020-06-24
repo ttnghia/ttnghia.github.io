@@ -21,10 +21,11 @@ image: images/code-fluid-simulation-2d/thumbnail.png
 ---
 
 
+A 2D fluid simulation using the hybrid grid/particle approach with APIC ([Affine Particle-in-Cell](https://dl.acm.org/doi/10.1145/2766996)) transfer.
 
 <!--more-->
 ### Description
-A 2D fluid simulation using the APIC ([Affine Particle-in-Cell](https://dl.acm.org/doi/10.1145/2766996)) method.
+A 2D fluid simulation using the hybrid grid/particle approach with APIC ([Affine Particle-in-Cell](https://dl.acm.org/doi/10.1145/2766996)) transfer.
 
 
 ### Download

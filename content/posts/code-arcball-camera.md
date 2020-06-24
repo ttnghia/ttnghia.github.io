@@ -18,6 +18,7 @@ image: images/code-arcball-camera/thumbnail.png
 ---
 
 
+An implementation of [Ken Shoemake's arcball camera](https://www.talisman.org/~erlkonig/misc/shoemake92-arcball.pdf) with smooth navigation feature.
 
 <!--more-->
 ### Description

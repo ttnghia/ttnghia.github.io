@@ -18,12 +18,13 @@ categories:
 image: images/code-particle-sampling-with-sph-relaxation/thumbnail.png
 ---
 
+A tool for generating evenly distributed particles from a given geometry.
 
 <!--more-->
 ### Description
 Particle-based simulation is prevalent in computer graphics. In order to run the simulations, we firstly need to have particles. Therefore, generating particles in a desired distribution is very important, if not indispensable. If the simulation resolution is not high enough, uneven distributed particles could probably lead to wrong solutions, or at least ugly looking results.
 
-I have struggled a lot in trying to generate evenly distributed particles for my simulation projects and came up with several solutions. One of them is Lloyd relaxation, but it requires two levels particle sampling - one normal scale and one much smaller scale, leading to huge amount of memory usage and yields very slow performance. Another solution is using [SPH-based blue noise relaxation](https://dl.acm.org/citation.cfm?id=2818102), which has a very good performance and produces good results and became my top choice. I implement that algorithm in my program `ParticleSampler`, which allows to generate particles from given geometry objects, run relaxation over the generated particles, and save the results to disk for further processing somewhere else. More details about the program and its usage is discussed more in detail in my github project below.
+I have struggled a lot in trying to generate evenly distributed particles for my simulation projects and came up with several solutions. One of them is Lloyd relaxation, but it requires two levels particle sampling - one normal scale and one much smaller scale, leading to huge amount of memory usage and yields very slow performance. Another solution is using [SPH-based blue noise relaxation](https://dl.acm.org/citation.cfm?id=2818102), which has a very good performance and produces good results and became my top choice. I implement that algorithm in my program `ParticleSampler`, which allows to generate particles from a given geometry, run relaxation over the generated particles, and save the results to disk for further processing somewhere else. More details about the program and its usage is discussed more in detail in my github project below.
 
 
 ### Download

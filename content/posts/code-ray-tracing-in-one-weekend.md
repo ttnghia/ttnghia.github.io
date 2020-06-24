@@ -20,6 +20,7 @@ image: images/code-ray-tracing-over-the-weekend/thumbnail.png
 ---
 
 
+An implementation of a simple ray tracer adapted from Peter Shirley's book [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
 
 <!--more-->
 ### Description

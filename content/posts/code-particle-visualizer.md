@@ -22,6 +22,7 @@ image: images/code-particle-visualizer/thumbnail.png
 ---
 
 
+A simple tool for visualizing particle-based simulation data.
 
 <!--more-->
 ### Description
