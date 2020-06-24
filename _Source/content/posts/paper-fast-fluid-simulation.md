@@ -35,7 +35,7 @@ We introduce efficient, large scale fluid simulation on GPU hardware using the f
 
 
 ### Download
-[Paper (preprint, 13MB pdf)](/pdf/2018GVDB.pdf) 
+[Paper (preprint, 13MB pdf)](/pdf/GVDB.pdf) 
 
 
 ### BibTeX
