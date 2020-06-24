@@ -17,7 +17,7 @@ tags:
 - strand
 categories:
 - animation
-image: images/animation-mpm-simulations/thumbnail.png
+image: images/mpm-simulations/thumbnail.png
 ---
 
 
