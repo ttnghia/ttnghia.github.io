@@ -8,17 +8,15 @@ enableToc: true
 enableTocContent: false
 tocPosition: outer
 tags:
-- paper
+- publication
 - graphics
 - fluid
 - simulation
 - rendering
 - code
 - c++
-series:
--
 categories:
--
+- publication
 image: images/paper-narrow-range-filter/thumbnail.jpg
 ---
 

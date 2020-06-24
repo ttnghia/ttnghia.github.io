@@ -15,10 +15,8 @@ tags:
 - sand
 - hair
 - strand
-series:
--
 categories:
--
+- animation
 image: images/animation-mpm-simulations/thumbnail.png
 ---
 

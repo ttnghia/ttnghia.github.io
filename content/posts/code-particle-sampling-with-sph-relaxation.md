@@ -13,10 +13,8 @@ tags:
 - particle
 - simulation
 - c++
-series:
--
 categories:
--
+- code
 image: images/code-particle-sampling-with-sph-relaxation/thumbnail.png
 ---
 

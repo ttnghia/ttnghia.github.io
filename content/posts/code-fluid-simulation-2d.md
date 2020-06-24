@@ -15,10 +15,8 @@ tags:
 - particle
 - c++
 - magnum
-series:
--
 categories:
--
+- code
 image: images/code-fluid-simulation-2d/thumbnail.png
 ---
 

@@ -15,10 +15,8 @@ tags:
 - particle
 - sph
 - c++
-series:
--
 categories:
--
+- code
 image: images/code-sph-fluid-simulation-v1/thumbnail.png
 ---
 

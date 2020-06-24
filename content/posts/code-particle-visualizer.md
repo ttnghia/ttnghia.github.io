@@ -16,10 +16,8 @@ tags:
 - visualization
 - particle
 - c++
-series:
--
 categories:
--
+- code
 image: images/code-particle-visualizer/thumbnail.png
 ---
 

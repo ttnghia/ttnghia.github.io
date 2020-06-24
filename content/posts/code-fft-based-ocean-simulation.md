@@ -14,10 +14,8 @@ tags:
 - simulation
 - rendering
 - c++
-series:
--
 categories:
--
+- code
 image: images/code-fft-based-ocean-simulation/thumbnail.jpg
 ---
 

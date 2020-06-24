@@ -12,10 +12,8 @@ tags:
 - graphics
 - c++
 - magnum
-series:
--
 categories:
--
+- code
 image: images/code-arcball-camera/thumbnail.png
 ---
 

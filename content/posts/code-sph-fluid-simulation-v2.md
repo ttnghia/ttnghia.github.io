@@ -15,10 +15,8 @@ tags:
 - particle
 - c++
 - magnum
-series:
--
 categories:
--
+- code
 image: images/code-sph-fluid-simulation-v2/thumbnail.png
 ---
 

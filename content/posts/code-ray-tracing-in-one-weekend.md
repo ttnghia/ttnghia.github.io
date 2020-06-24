@@ -15,10 +15,8 @@ tags:
 - particle
 - c++
 - magnum
-series:
--
 categories:
--
+- code
 image: images/code-ray-tracing-over-the-weekend/thumbnail.png
 ---
 

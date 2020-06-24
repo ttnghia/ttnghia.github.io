@@ -8,14 +8,12 @@ enableToc: true
 enableTocContent: false
 tocPosition: outer
 tags:
-- paper
+- publication
 - graphics
 - fluid
 - simulation
-series:
--
 categories:
--
+- publication
 image: images/paper-fast-fluid-simulation/thumbnail.jpg
 ---
 
