@@ -14,7 +14,7 @@
     <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
     <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://ttnghia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>c&#43;&#43;</title>
         <link>https://ttnghia.github.io/tags/c&#43;&#43;/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/c&#43;&#43;/</guid>
@@ -43,7 +43,7 @@
       <item>
         <title>code</title>
         <link>https://ttnghia.github.io/tags/code/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/code/</guid>
@@ -59,27 +59,9 @@
       </item>
       
       <item>
-        <title>fluid</title>
-        <link>https://ttnghia.github.io/tags/fluid/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/fluid/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>graphics</title>
         <link>https://ttnghia.github.io/tags/graphics/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/graphics/</guid>
@@ -97,7 +79,7 @@
       <item>
         <title>magnum</title>
         <link>https://ttnghia.github.io/tags/magnum/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/magnum/</guid>
@@ -113,27 +95,9 @@
       </item>
       
       <item>
-        <title>particle</title>
-        <link>https://ttnghia.github.io/tags/particle/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/particle/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>ray tracing</title>
         <link>https://ttnghia.github.io/tags/ray-tracing/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/ray-tracing/</guid>
@@ -151,7 +115,7 @@
       <item>
         <title>rendering</title>
         <link>https://ttnghia.github.io/tags/rendering/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/rendering/</guid>
@@ -167,9 +131,45 @@
       </item>
       
       <item>
+        <title>fluid</title>
+        <link>https://ttnghia.github.io/tags/fluid/</link>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/fluid/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>particle</title>
+        <link>https://ttnghia.github.io/tags/particle/</link>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/particle/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>simulation</title>
         <link>https://ttnghia.github.io/tags/simulation/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/simulation/</guid>

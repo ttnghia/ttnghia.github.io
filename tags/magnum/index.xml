@@ -14,7 +14,7 @@
     <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
     <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://ttnghia.github.io/tags/magnum/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,9 +25,9 @@
       <item>
         <title>ArcBall Camera</title>
         <link>https://ttnghia.github.io/posts/code-arcball-camera/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <atom:modified>Mon, 03 Feb 2020 00:00:00 -0700</atom:modified>
         <guid>https://ttnghia.github.io/posts/code-arcball-camera/</guid>
         <description>&lt;p&gt;An implementation of &lt;a href=&#34;https://www.talisman.org/~erlkonig/misc/shoemake92-arcball.pdf&#34;&gt;Ken Shoemake&amp;rsquo;s arcball camera&lt;/a&gt; with smooth navigation feature.&lt;/p&gt;</description>
         
@@ -65,11 +65,61 @@
       </item>
       
       <item>
+        <title>Ray Tracing In One Weekend</title>
+        <link>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</link>
+        <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Wed, 29 Jan 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</guid>
+        <description>&lt;p&gt;An implementation of a simple ray tracer adapted from Peter Shirley&amp;rsquo;s book &lt;a href=&#34;https://raytracing.github.io/books/RayTracingInOneWeekend.html&#34;&gt;Ray Tracing in One Weekend&lt;/a&gt;.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/code-ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>ray tracing</category>
+            
+          
+            
+              <category>rendering</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>Fluid Simulation 2D</title>
         <link>https://ttnghia.github.io/posts/code-fluid-simulation-2d/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <atom:modified>Tue, 12 Nov 2019 00:00:00 -0700</atom:modified>
         <guid>https://ttnghia.github.io/posts/code-fluid-simulation-2d/</guid>
         <description>&lt;p&gt;A 2D fluid simulation using the hybrid grid/particle approach with APIC (&lt;a href=&#34;https://dl.acm.org/doi/10.1145/2766996&#34;&gt;Affine Particle-in-Cell&lt;/a&gt;) transfer.&lt;/p&gt;</description>
         
@@ -119,61 +169,11 @@
       </item>
       
       <item>
-        <title>Ray Tracing In One Weekend</title>
-        <link>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</guid>
-        <description>&lt;p&gt;An implementation of a simple ray tracer adapted from Peter Shirley&amp;rsquo;s book &lt;a href=&#34;https://raytracing.github.io/books/RayTracingInOneWeekend.html&#34;&gt;Ray Tracing in One Weekend&lt;/a&gt;.&lt;/p&gt;</description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>code</category>
-            
-          
-            
-              <category>graphics</category>
-            
-          
-            
-              <category>ray tracing</category>
-            
-          
-            
-              <category>rendering</category>
-            
-          
-            
-              <category>c&#43;&#43;</category>
-            
-          
-            
-              <category>magnum</category>
-            
-          
-        
-        
-          
-            
-              <category>code</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
         <title>SPH Fluid Simulation (v2)</title>
         <link>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v2/</link>
-        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 08 Nov 2019 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <atom:modified>Fri, 08 Nov 2019 00:00:00 -0700</atom:modified>
         <guid>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v2/</guid>
         <description></description>
         

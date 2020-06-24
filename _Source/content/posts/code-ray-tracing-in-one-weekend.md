@@ -1,6 +1,6 @@
 ---
 title: "Ray Tracing In One Weekend"
-date: 2020-06-13T00:00:00-07:00
+date: 2020-01-29T00:00:00-07:00
 description: 
 draft: false
 hideToc: false
