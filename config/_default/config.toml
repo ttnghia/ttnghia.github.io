@@ -1,6 +1,6 @@
 baseURL = "https://ttnghia.github.io/"
 title = "Nghia Truong"
-theme = "zzo"
+theme = "zzo_customized"
 
 defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
 defaultContentLanguageInSubdir = false # baseURL/en/, baseURL/kr/ ...
