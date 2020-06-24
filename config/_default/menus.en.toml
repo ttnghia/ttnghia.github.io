@@ -7,7 +7,7 @@
 [[main]]
   identifier = "publication"
   name = "Publication"
-  url = "tags/paper"
+  url = "tags/publication"
   weight = 2
   
 [[main]]
