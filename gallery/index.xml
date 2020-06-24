@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Galleries on Nghia Truong</title>
+    <link>https://ttnghia.github.io/gallery/</link>
+    <description>Recent content in Galleries on Nghia Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
+    <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 10 Jun 2020 10:20:16 +0900</lastBuildDate>
+    
+        <atom:link href="https://ttnghia.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Food</title>
+        <link>https://ttnghia.github.io/gallery/food/</link>
+        <pubDate>Wed, 10 Jun 2020 10:20:16 +0900</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Wed, 10 Jun 2020 10:20:16 +0900</atom:modified>
+        <guid>https://ttnghia.github.io/gallery/food/</guid>
+        <description>Food made by my family at home :)</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/gallery/food/20181128_185734.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Photo</title>
+        <link>https://ttnghia.github.io/gallery/photo/</link>
+        <pubDate>Tue, 11 Jun 2019 10:20:16 +0900</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Tue, 11 Jun 2019 10:20:16 +0900</atom:modified>
+        <guid>https://ttnghia.github.io/gallery/photo/</guid>
+        <description>Selected photo shot by me around the world, whenever I have a chance.</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/gallery/photo/20150919_193942.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

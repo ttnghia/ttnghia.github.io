@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>magnum on Nghia Truong</title>
+    <link>https://ttnghia.github.io/tags/magnum/</link>
+    <description>Recent content in magnum on Nghia Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
+    <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 -0700</lastBuildDate>
+    
+        <atom:link href="https://ttnghia.github.io/tags/magnum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>ArcBall Camera</title>
+        <link>https://ttnghia.github.io/posts/code-arcball-camera/</link>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/code-arcball-camera/</guid>
+        <description>&lt;p&gt;An implementation of &lt;a href=&#34;https://www.talisman.org/~erlkonig/misc/shoemake92-arcball.pdf&#34;&gt;Ken Shoemake&amp;rsquo;s arcball camera&lt;/a&gt; with smooth navigation feature.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/code-arcball-camera/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Fluid Simulation 2D</title>
+        <link>https://ttnghia.github.io/posts/code-fluid-simulation-2d/</link>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/code-fluid-simulation-2d/</guid>
+        <description>&lt;p&gt;A 2D fluid simulation using the hybrid grid/particle approach with APIC (&lt;a href=&#34;https://dl.acm.org/doi/10.1145/2766996&#34;&gt;Affine Particle-in-Cell&lt;/a&gt;) transfer.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/code-fluid-simulation-2d/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>fluid</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>particle</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Ray Tracing In One Weekend</title>
+        <link>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</link>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</guid>
+        <description>&lt;p&gt;An implementation of a simple ray tracer adapted from Peter Shirley&amp;rsquo;s book &lt;a href=&#34;https://raytracing.github.io/books/RayTracingInOneWeekend.html&#34;&gt;Ray Tracing in One Weekend&lt;/a&gt;.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/code-ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>ray tracing</category>
+            
+          
+            
+              <category>rendering</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>SPH Fluid Simulation (v2)</title>
+        <link>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v2/</link>
+        <pubDate>Sat, 13 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Sat, 13 Jun 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v2/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/code-sph-fluid-simulation-v2/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>fluid</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>particle</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
