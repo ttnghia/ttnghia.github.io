@@ -24,15 +24,15 @@
       
       <item>
         <title>Ray Tracing In One Weekend</title>
-        <link>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</link>
+        <link>https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/</link>
         <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Wed, 29 Jan 2020 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</guid>
+        <guid>https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/</guid>
         <description>&lt;p&gt;An implementation of a simple ray tracer adapted from Peter Shirley&amp;rsquo;s book &lt;a href=&#34;https://raytracing.github.io/books/RayTracingInOneWeekend.html&#34;&gt;Ray Tracing in One Weekend&lt;/a&gt;.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -74,15 +74,15 @@
       
       <item>
         <title>Particle Visualizer</title>
-        <link>https://ttnghia.github.io/posts/code-particle-visualizer/</link>
+        <link>https://ttnghia.github.io/posts/particle-visualizer/</link>
         <pubDate>Tue, 06 Nov 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 06 Nov 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-particle-visualizer/</guid>
+        <guid>https://ttnghia.github.io/posts/particle-visualizer/</guid>
         <description>&lt;p&gt;A simple tool for visualizing particle-based simulation data.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-particle-visualizer/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/particle-visualizer/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -132,15 +132,15 @@
       
       <item>
         <title>A Narrow-Range Filter for Screen-Space Fluid Rendering</title>
-        <link>https://ttnghia.github.io/posts/paper-narrow-range-filter/</link>
+        <link>https://ttnghia.github.io/posts/narrow-range-filter/</link>
         <pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 10 Apr 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/paper-narrow-range-filter/</guid>
+        <guid>https://ttnghia.github.io/posts/narrow-range-filter/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/paper-narrow-range-filter/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/narrow-range-filter/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -186,15 +186,15 @@
       
       <item>
         <title>FFT-based Ocean Surface Simulation</title>
-        <link>https://ttnghia.github.io/posts/code-fft-based-ocean-simulation/</link>
+        <link>https://ttnghia.github.io/posts/fft-based-ocean-simulation/</link>
         <pubDate>Sun, 02 Jul 2017 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Sun, 02 Jul 2017 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-fft-based-ocean-simulation/</guid>
+        <guid>https://ttnghia.github.io/posts/fft-based-ocean-simulation/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-fft-based-ocean-simulation/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/fft-based-ocean-simulation/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

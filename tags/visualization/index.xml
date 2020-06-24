@@ -24,15 +24,15 @@
       
       <item>
         <title>Particle Visualizer</title>
-        <link>https://ttnghia.github.io/posts/code-particle-visualizer/</link>
+        <link>https://ttnghia.github.io/posts/particle-visualizer/</link>
         <pubDate>Tue, 06 Nov 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 06 Nov 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-particle-visualizer/</guid>
+        <guid>https://ttnghia.github.io/posts/particle-visualizer/</guid>
         <description>&lt;p&gt;A simple tool for visualizing particle-based simulation data.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-particle-visualizer/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/particle-visualizer/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

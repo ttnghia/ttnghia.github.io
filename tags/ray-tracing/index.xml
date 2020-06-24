@@ -24,15 +24,15 @@
       
       <item>
         <title>Ray Tracing In One Weekend</title>
-        <link>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</link>
+        <link>https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/</link>
         <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Wed, 29 Jan 2020 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-ray-tracing-in-one-weekend/</guid>
+        <guid>https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/</guid>
         <description>&lt;p&gt;An implementation of a simple ray tracer adapted from Peter Shirley&amp;rsquo;s book &lt;a href=&#34;https://raytracing.github.io/books/RayTracingInOneWeekend.html&#34;&gt;Ray Tracing in One Weekend&lt;/a&gt;.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

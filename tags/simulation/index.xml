@@ -24,15 +24,15 @@
       
       <item>
         <title>Fluid Simulation 2D</title>
-        <link>https://ttnghia.github.io/posts/code-fluid-simulation-2d/</link>
+        <link>https://ttnghia.github.io/posts/fluid-simulation-2d/</link>
         <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 12 Nov 2019 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-fluid-simulation-2d/</guid>
+        <guid>https://ttnghia.github.io/posts/fluid-simulation-2d/</guid>
         <description>&lt;p&gt;A 2D fluid simulation using the hybrid grid/particle approach with APIC (&lt;a href=&#34;https://dl.acm.org/doi/10.1145/2766996&#34;&gt;Affine Particle-in-Cell&lt;/a&gt;) transfer.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-fluid-simulation-2d/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/fluid-simulation-2d/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -78,15 +78,15 @@
       
       <item>
         <title>SPH Fluid Simulation (v2)</title>
-        <link>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v2/</link>
+        <link>https://ttnghia.github.io/posts/sph-fluid-simulation-v2/</link>
         <pubDate>Fri, 08 Nov 2019 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Fri, 08 Nov 2019 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v2/</guid>
+        <guid>https://ttnghia.github.io/posts/sph-fluid-simulation-v2/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-sph-fluid-simulation-v2/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/sph-fluid-simulation-v2/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -132,11 +132,11 @@
       
       <item>
         <title>Material Point Method for Elastoplastic Simulations</title>
-        <link>https://ttnghia.github.io/posts/animation-mpm-simulations/</link>
+        <link>https://ttnghia.github.io/posts/mpm-simulations/</link>
         <pubDate>Sun, 11 Nov 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Sun, 11 Nov 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/animation-mpm-simulations/</guid>
+        <guid>https://ttnghia.github.io/posts/mpm-simulations/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
@@ -186,15 +186,15 @@
       
       <item>
         <title>Particle Visualizer</title>
-        <link>https://ttnghia.github.io/posts/code-particle-visualizer/</link>
+        <link>https://ttnghia.github.io/posts/particle-visualizer/</link>
         <pubDate>Tue, 06 Nov 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 06 Nov 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-particle-visualizer/</guid>
+        <guid>https://ttnghia.github.io/posts/particle-visualizer/</guid>
         <description>&lt;p&gt;A simple tool for visualizing particle-based simulation data.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-particle-visualizer/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/particle-visualizer/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -244,15 +244,15 @@
       
       <item>
         <title>Particle Sampling with SPH-based Relaxation</title>
-        <link>https://ttnghia.github.io/posts/code-particle-sampling-with-sph-relaxation/</link>
+        <link>https://ttnghia.github.io/posts/particle-sampling-with-sph-relaxation/</link>
         <pubDate>Thu, 14 Jun 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Thu, 14 Jun 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-particle-sampling-with-sph-relaxation/</guid>
+        <guid>https://ttnghia.github.io/posts/particle-sampling-with-sph-relaxation/</guid>
         <description>&lt;p&gt;A tool for generating evenly distributed particles from a given geometry.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-particle-sampling-with-sph-relaxation/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/particle-sampling-with-sph-relaxation/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -290,15 +290,15 @@
       
       <item>
         <title>A Narrow-Range Filter for Screen-Space Fluid Rendering</title>
-        <link>https://ttnghia.github.io/posts/paper-narrow-range-filter/</link>
+        <link>https://ttnghia.github.io/posts/narrow-range-filter/</link>
         <pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 10 Apr 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/paper-narrow-range-filter/</guid>
+        <guid>https://ttnghia.github.io/posts/narrow-range-filter/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/paper-narrow-range-filter/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/narrow-range-filter/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -344,15 +344,15 @@
       
       <item>
         <title>Fast Fluid Simulations with Sparse Volumes on the GPU</title>
-        <link>https://ttnghia.github.io/posts/paper-fast-fluid-simulation/</link>
+        <link>https://ttnghia.github.io/posts/fast-fluid-simulation/</link>
         <pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Tue, 10 Apr 2018 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/paper-fast-fluid-simulation/</guid>
+        <guid>https://ttnghia.github.io/posts/fast-fluid-simulation/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/paper-fast-fluid-simulation/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/fast-fluid-simulation/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -386,15 +386,15 @@
       
       <item>
         <title>SPH Fluid Simulation (v1)</title>
-        <link>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v1/</link>
+        <link>https://ttnghia.github.io/posts/sph-fluid-simulation-v1/</link>
         <pubDate>Wed, 16 Aug 2017 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Wed, 16 Aug 2017 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-sph-fluid-simulation-v1/</guid>
+        <guid>https://ttnghia.github.io/posts/sph-fluid-simulation-v1/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-sph-fluid-simulation-v1/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/sph-fluid-simulation-v1/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -440,15 +440,15 @@
       
       <item>
         <title>FFT-based Ocean Surface Simulation</title>
-        <link>https://ttnghia.github.io/posts/code-fft-based-ocean-simulation/</link>
+        <link>https://ttnghia.github.io/posts/fft-based-ocean-simulation/</link>
         <pubDate>Sun, 02 Jul 2017 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Sun, 02 Jul 2017 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/code-fft-based-ocean-simulation/</guid>
+        <guid>https://ttnghia.github.io/posts/fft-based-ocean-simulation/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/code-fft-based-ocean-simulation/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/fft-based-ocean-simulation/thumbnail.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
