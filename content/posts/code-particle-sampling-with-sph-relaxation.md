@@ -1,5 +1,5 @@
 ---
-title: "[Paper] Particle Sampling with SPH-based Relaxation"
+title: "Particle Sampling with SPH-based Relaxation"
 date: 2018-06-14T00:00:00-07:00
 description: 
 draft: false

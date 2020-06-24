@@ -1,5 +1,5 @@
 ---
-title: "[Paper] A Narrow-Range Filter for Screen-Space Fluid Rendering"
+title: "A Narrow-Range Filter for Screen-Space Fluid Rendering"
 date: 2018-04-10T00:00:00-07:00
 description: 
 draft: false

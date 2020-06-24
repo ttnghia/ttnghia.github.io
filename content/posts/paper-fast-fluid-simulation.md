@@ -1,5 +1,5 @@
 ---
-title: "[Paper] Fast Fluid Simulations with Sparse Volumes on the GPU"
+title: "Fast Fluid Simulations with Sparse Volumes on the GPU"
 date: 2018-04-10T00:00:00-07:00
 description: 
 draft: false

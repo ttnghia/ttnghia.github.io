@@ -1,5 +1,5 @@
 ---
-title: "[Code] Particle Visualizer"
+title: "Particle Visualizer"
 date: 2018-11-06T00:00:00-07:00
 description: 
 draft: false

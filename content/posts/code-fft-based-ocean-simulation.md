@@ -1,5 +1,5 @@
 ---
-title: "[Code] FFT-based Ocean Surface Simulation"
+title: "FFT-based Ocean Surface Simulation"
 date: 2017-07-02T00:00:00-07:00
 description: 
 draft: false

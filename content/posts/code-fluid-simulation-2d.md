@@ -1,5 +1,5 @@
 ---
-title: "[Code] Fluid Simulation 2D"
+title: "Fluid Simulation 2D"
 date: 2020-06-13T00:00:00-07:00
 description: 
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "[Animation] Material Point Method for Elastoplastic Simulations"
+title: "Material Point Method for Elastoplastic Simulations"
 date: 2018-11-11T00:00:00-07:00
 description: 
 draft: false

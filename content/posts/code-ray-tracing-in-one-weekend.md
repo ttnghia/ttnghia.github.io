@@ -1,5 +1,5 @@
 ---
-title: "[Code] Ray Tracing In One Weekend"
+title: "Ray Tracing In One Weekend"
 date: 2020-06-13T00:00:00-07:00
 description: 
 draft: false
@@ -10,9 +10,8 @@ tocPosition: outer
 tags:
 - code
 - graphics
-- fluid
-- simulation
-- particle
+- ray tracing
+- rendering
 - c++
 - magnum
 categories:

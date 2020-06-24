@@ -1,5 +1,5 @@
 ---
-title: "[Code] SPH Fluid Simulation (v1)"
+title: "SPH Fluid Simulation (v1)"
 date: 2017-08-16T00:00:00-07:00
 description: 
 draft: false
