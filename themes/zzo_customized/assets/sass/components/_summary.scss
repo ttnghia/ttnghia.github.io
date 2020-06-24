@@ -171,8 +171,8 @@
     }
         
     &-wrapper {
-      max-width: 130px;
-      min-width: 130px;
+      max-width: 200px;
+      min-width: 200px;
       overflow: hidden;
 
       @include align-self(center);
