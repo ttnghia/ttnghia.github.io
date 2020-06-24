@@ -1,5 +1,5 @@
 ---
-title: "Loose Octree"
+title: "Octree"
 date: 2020-06-24T00:00:00-07:00
 description: 
 draft: false
@@ -15,7 +15,7 @@ tags:
 - magnum
 categories:
 - code
-image: images/loose-octree/thumbnail.png
+image: images/octree/thumbnail.png
 ---
 
 
@@ -29,15 +29,15 @@ This is a simple, single-threaded implementation of a [loose octree](https://ant
 ### Download
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-octree.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/octree)
-[Windows binary](/exe/LooseOctree.exe)
+[Windows binary](/exe/Octree.exe)
 
 
 ### Gallery
 <p align="center">
-<img src="/images/loose-octree/1.png" alt="A screenshot of the program" style="width: 80%;"/>
+<img src="/images/octree/1.png" alt="A screenshot of the program" style="width: 80%;"/>
 <br />
-<img src="/images/loose-octree/2.png" alt="A screenshot of the program" style="width: 80%;"/>
+<img src="/images/octree/2.png" alt="A screenshot of the program" style="width: 80%;"/>
 <br />
-<img src="/images/loose-octree/3.png" alt="A screenshot of the program" style="width: 80%;"/>
+<img src="/images/octree/3.png" alt="A screenshot of the program" style="width: 80%;"/>
 </p>
 

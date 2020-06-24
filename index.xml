@@ -42,16 +42,16 @@
 
       
       <item>
-        <title>Loose Octree</title>
-        <link>https://ttnghia.github.io/posts/loose-octree/</link>
+        <title>Octree</title>
+        <link>https://ttnghia.github.io/posts/octree/</link>
         <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         <atom:modified>Wed, 24 Jun 2020 00:00:00 -0700</atom:modified>
-        <guid>https://ttnghia.github.io/posts/loose-octree/</guid>
+        <guid>https://ttnghia.github.io/posts/octree/</guid>
         <description>&lt;p&gt;An implementation of &lt;a href=&#34;https://anteru.net/blog/2008/loose-octrees/&#34;&gt;loose octree&lt;/a&gt; with application in collision detection for particle simulation.&lt;/p&gt;</description>
         
         <dc:creator>Nghia Truong</dc:creator>
-        <media:content url="https://ttnghia.github.io/images/loose-octree/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ttnghia.github.io/images/octree/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
