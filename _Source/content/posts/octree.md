@@ -31,6 +31,27 @@ This is a simple, single-threaded implementation of a [loose octree](https://ant
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/octree)
 [Windows binary](/exe/Octree.exe)
 
+### Usage
+* `Mouse drag` rotates the camera
+* `Shift + mouse drag` pans the camera
+* `Mouse wheel` zooms in/out
+* `R` resets the camera to its original transformation
+* `B` shows/hides tree node bounding boxes
+* `Space` pauses/resumes particle simulation
+
+Additionally, various options can be set via command line:
+
+```
+-s, --spheres N — number of spheres to simulate (default: 50)
+-r, --sphere-radius R — sphere radius (default: 0.1)
+-v, --sphere-velocity V — sphere velocity (default: 1)
+```
+
+For example:
+
+```
+Octree.exe -s 20 -r 0.1 -v 1.0
+```
 
 ### Gallery
 <p align="center">

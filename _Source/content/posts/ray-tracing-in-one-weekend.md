@@ -33,6 +33,15 @@ This is an implementation of a simple ray tracer adapted from Peter Shirley's bo
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/raytracing)
 [Windows binary](/exe/RayTracing.exe)
 
+### Usage
+* `Mouse drag` rotates the camera
+* `Shift + mouse drag` pans the camera
+* `Mouse wheel` zooms in/out
+* `R` resets the camera to its original transformation
+* `D` toggles depth-of-field rendering
+* `M` toggles marking the next render block by a different color
+* `N` generates a new random scene
+* `Space` pauses/resumes rendering
 
 ### Gallery
 <p align="center">

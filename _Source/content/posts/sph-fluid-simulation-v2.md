@@ -34,6 +34,13 @@ I also had another SPH simulation code which only deals with static boundary [he
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/fluidsimulation3d)
 [Windows binary](/exe/SPHFluidSimulation.exe)
 
+### Usage
+* `Mouse drag` rotates the camera
+* `Shift + mouse drag` pans the camera
+* `Mouse wheel` zooms in/out
+* `H` shows/hides the overlaid menu
+* `R` resets the simulation
+* `Space` pauses/resumes the simulation
 
 ### Gallery
 <p align="center">

@@ -30,6 +30,12 @@ This is an implementation of [Ken Shoemake's arcball camera](https://www.talisma
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/arcball)
 [Windows binary](/exe/ArcBallCamera.exe)
 
+### Usage
+* `Mouse drag` rotates the camera
+* `Shift + mouse drag` pans the camera
+* `Mouse wheel` zooms in/out
+* `R` resets the camera to its original transformation
+* `L` toggles lagging (smooth camera navigation)
 
 ### Gallery
 <p align="center">

@@ -33,7 +33,12 @@ A 2D fluid simulation using the hybrid grid/particle approach with APIC ([Affine
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/fluidsimulation2d)
 [Windows binary](/exe/FluidSimulation2D.exe)
 
-
+### Usage
+* `Mouse drag` rotates the camera
+* `E` emits more particles
+* `H` shows/hides the overlaid menu
+* `R` resets the simulation
+* `Space` pauses/resumes the simulation
 
 ### Gallery
 <p align="center">

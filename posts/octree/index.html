@@ -1734,7 +1734,22 @@ if (!doNotTrack) {
 <p><a href="https://doc.magnum.graphics/magnum/examples-octree.html">Magnum example page with more description</a><br />
 <a href="https://github.com/mosra/magnum-examples/tree/master/src/octree">Code (github) from Magnum repository</a><br />
 <a href="/exe/Octree.exe">Windows binary</a></p>
-<h3 id="gallery">Gallery</h3>
+<h3 id="usage">Usage</h3>
+<ul>
+<li><code>Mouse drag</code> rotates the camera</li>
+<li><code>Shift + mouse drag</code> pans the camera</li>
+<li><code>Mouse wheel</code> zooms in/out</li>
+<li><code>R</code> resets the camera to its original transformation</li>
+<li><code>B</code> shows/hides tree node bounding boxes</li>
+<li><code>Space</code> pauses/resumes particle simulation</li>
+</ul>
+<p>Additionally, various options can be set via command line:</p>
+<pre><code>-s, --spheres N — number of spheres to simulate (default: 50)
+-r, --sphere-radius R — sphere radius (default: 0.1)
+-v, --sphere-velocity V — sphere velocity (default: 1)
+</code></pre><p>For example:</p>
+<pre><code>Octree.exe -s 20 -r 0.1 -v 1.0
+</code></pre><h3 id="gallery">Gallery</h3>
 <p align="center">
 <img src="/images/octree/1.png" alt="A screenshot of the program" style="width: 80%;"/>
 <br />
@@ -3043,6 +3058,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <ul>
         <li><a href="#description">Description</a></li>
         <li><a href="#download">Download</a></li>
+        <li><a href="#usage">Usage</a></li>
         <li><a href="#gallery">Gallery</a></li>
       </ul>
     </li>
