@@ -14,7 +14,7 @@
     <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
     <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://ttnghia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,10 +25,28 @@
       <item>
         <title>code</title>
         <link>https://ttnghia.github.io/categories/code/</link>
-        <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/categories/code/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>publication</title>
+        <link>https://ttnghia.github.io/categories/publication/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/categories/publication/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
@@ -47,24 +65,6 @@
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/categories/animation/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>publication</title>
-        <link>https://ttnghia.github.io/categories/publication/</link>
-        <pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/categories/publication/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>

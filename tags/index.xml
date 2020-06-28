@@ -14,7 +14,7 @@
     <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
     <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://ttnghia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>c&#43;&#43;</title>
         <link>https://ttnghia.github.io/tags/c&#43;&#43;/</link>
-        <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/c&#43;&#43;/</guid>
@@ -43,7 +43,7 @@
       <item>
         <title>code</title>
         <link>https://ttnghia.github.io/tags/code/</link>
-        <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/code/</guid>
@@ -59,9 +59,27 @@
       </item>
       
       <item>
+        <title>curve</title>
+        <link>https://ttnghia.github.io/tags/curve/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/curve/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>graphics</title>
         <link>https://ttnghia.github.io/tags/graphics/</link>
-        <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/graphics/</guid>
@@ -77,9 +95,63 @@
       </item>
       
       <item>
+        <title>hair</title>
+        <link>https://ttnghia.github.io/tags/hair/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/hair/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>publication</title>
+        <link>https://ttnghia.github.io/tags/publication/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/publication/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rendering</title>
+        <link>https://ttnghia.github.io/tags/rendering/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/rendering/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>magnum</title>
         <link>https://ttnghia.github.io/tags/magnum/</link>
-        <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 25 Jun 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/magnum/</guid>
@@ -119,24 +191,6 @@
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/ray-tracing/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>rendering</title>
-        <link>https://ttnghia.github.io/tags/rendering/</link>
-        <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/rendering/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
@@ -221,24 +275,6 @@
       </item>
       
       <item>
-        <title>hair</title>
-        <link>https://ttnghia.github.io/tags/hair/</link>
-        <pubDate>Sun, 11 Nov 2018 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/hair/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>MPM</title>
         <link>https://ttnghia.github.io/tags/mpm/</link>
         <pubDate>Sun, 11 Nov 2018 00:00:00 -0700</pubDate>
@@ -299,24 +335,6 @@
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/visualization/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>publication</title>
-        <link>https://ttnghia.github.io/tags/publication/</link>
-        <pubDate>Tue, 10 Apr 2018 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/publication/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
