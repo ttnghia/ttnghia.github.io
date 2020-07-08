@@ -33,7 +33,14 @@ This is an implementation of [Ken Shoemake's arcball camera](https://www.talisma
 [Windows binary](/exe/ArcBallCamera.exe)
 
 ### WebGL Demo
-Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase. Note that this WebGL demo requires WebAssembly-capable browser with WebGL enabled.
+
+Usage:
+    * `Mouse drag` rotates the camera
+    * `Shift + mouse drag` pans the camera
+    * `Mouse wheel` zooms in/out
+    * `R` resets the camera to its original transformation
+    * `L` toggles lagging (smooth camera navigation)
 
 <link rel="stylesheet" href="/webgl/WebApplication.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -46,13 +53,6 @@ Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome 
     <script async="async" src="/webgl/magnum-arcball.js"></script>
   </div></div></div>
 </div>
-
-### Usage
-* `Mouse drag` rotates the camera
-* `Shift + mouse drag` pans the camera
-* `Mouse wheel` zooms in/out
-* `R` resets the camera to its original transformation
-* `L` toggles lagging (smooth camera navigation)
 
 ### Gallery
 <p align="center">

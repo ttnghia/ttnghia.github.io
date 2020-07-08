@@ -36,8 +36,15 @@ A 2D fluid simulation using the hybrid grid/particle approach with APIC ([Affine
 [Windows binary](/exe/FluidSimulation2D.exe)
 
 ### WebGL Demo
-Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase. Note that this WebGL demo requires WebAssembly-capable browser with WebGL enabled.
 
+Usage:
+    * `Mouse drag` rotates the camera
+    * `E` emits more particles
+    * `H` shows/hides the overlaid menu
+    * `R` resets the simulation
+    * `Space` pauses/resumes the simulation
+	
 <link rel="stylesheet" href="/webgl/WebApplication.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <div id="container">
@@ -50,13 +57,6 @@ Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome 
   </div></div></div>
 </div>
 
-
-### Usage
-* `Mouse drag` rotates the camera
-* `E` emits more particles
-* `H` shows/hides the overlaid menu
-* `R` resets the simulation
-* `Space` pauses/resumes the simulation
 
 ### Gallery
 <p align="center">

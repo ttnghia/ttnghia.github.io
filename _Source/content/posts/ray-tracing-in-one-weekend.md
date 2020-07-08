@@ -34,8 +34,18 @@ This is an implementation of a simple ray tracer adapted from Peter Shirley's bo
 [Windows binary](/exe/RayTracing.exe)
 
 ### WebGL Demo
-Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase. Note that this WebGL demo requires WebAssembly-capable browser with WebGL enabled.
 
+Usage:
+    * `Mouse drag` rotates the camera
+    * `Shift + mouse drag` pans the camera
+    * `Mouse wheel` zooms in/out
+    * `R` resets the camera to its original transformation
+    * `D` toggles depth-of-field rendering
+    * `M` toggles marking the next render block by a different color
+    * `N` generates a new random scene
+    * `Space` pauses/resumes rendering
+	
 <link rel="stylesheet" href="/webgl/WebApplication.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <div id="container">
@@ -48,15 +58,6 @@ Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome 
   </div></div></div>
 </div>
 
-### Usage
-* `Mouse drag` rotates the camera
-* `Shift + mouse drag` pans the camera
-* `Mouse wheel` zooms in/out
-* `R` resets the camera to its original transformation
-* `D` toggles depth-of-field rendering
-* `M` toggles marking the next render block by a different color
-* `N` generates a new random scene
-* `Space` pauses/resumes rendering
 
 ### Gallery
 <p align="center">

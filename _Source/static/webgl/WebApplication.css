@@ -42,7 +42,7 @@ body {
    #listener          snaps to #expander edges
    #listener::before  does the border, which finally goes below the canvas */
 #container {
-  margin: 1rem 9rem 1rem 9rem;
+  margin: 1rem -1rem 1rem -1rem;
 }
 #sizer {
   margin-left: auto;
@@ -96,6 +96,8 @@ body {
   width: 640px; /* default */
 }
 #container.width-800 #sizer { width: 800px; }
+#container.width-1000 #sizer { width: 1000px; }
+#container.width-1200 #sizer { width: 1200px; }
 
 #container.aspect-1-1 #expander { padding-bottom: 100%; }
 #container.aspect-4-3 #expander, #container:not(.fullsize):not([class*='aspect-']) #expander {

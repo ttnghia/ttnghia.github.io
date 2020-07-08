@@ -37,8 +37,17 @@ I also had another SPH simulation code which only deals with static boundary [he
 [Windows binary](/exe/SPHFluidSimulation.exe)
 
 ### WebGL Demo
-Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase. Note that this WebGL demo requires WebAssembly-capable browser with WebGL enabled.
+
 Due to restriction of WebGL, this demo only runs on a single thread. The desktop app runs at much higher speed with multi-threading enabled.
+
+Usage:
+    * `Mouse drag` rotates the camera
+    * `Shift + mouse drag` pans the camera
+    * `Mouse wheel` zooms in/out
+    * `H` shows/hides the overlaid menu
+    * `R` resets the simulation
+    * `Space` pauses/resumes the simulation
 
 <link rel="stylesheet" href="/webgl/WebApplication.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -52,14 +61,6 @@ Due to restriction of WebGL, this demo only runs on a single thread. The desktop
   </div></div></div>
 </div>
 
-
-### Usage
-* `Mouse drag` rotates the camera
-* `Shift + mouse drag` pans the camera
-* `Mouse wheel` zooms in/out
-* `H` shows/hides the overlaid menu
-* `R` resets the simulation
-* `Space` pauses/resumes the simulation
 
 ### Gallery
 <p align="center">

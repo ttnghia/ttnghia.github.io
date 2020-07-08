@@ -34,7 +34,8 @@ This is a simple, single-threaded implementation of a [loose octree](https://ant
 [Windows binary](/exe/Octree.exe)
 
 ### WebGL Demo
-Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase. Note that this WebGL demo requires WebAssembly-capable browser with WebGL enabled.
+
 [By default](/posts/octree/), there are 2000 spheres simulated at slow speed. A better scenario can be seen by [following this link](?spheres=20&amp;sphere-radius=0.1&amp;sphere-velocity=1.0).
 
 <link rel="stylesheet" href="/webgl/WebApplication.css" />
