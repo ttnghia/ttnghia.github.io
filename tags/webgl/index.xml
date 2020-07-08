@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>webgl on Nghia Truong</title>
+    <link>https://ttnghia.github.io/tags/webgl/</link>
+    <description>Recent content in webgl on Nghia Truong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
+    <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 -0700</lastBuildDate>
+    
+        <atom:link href="https://ttnghia.github.io/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Quadratic Approximation of Cubic Curves</title>
+        <link>https://ttnghia.github.io/posts/quadratic-approximation-of-cubic-curves/</link>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Sun, 28 Jun 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/quadratic-approximation-of-cubic-curves/</guid>
+        <description>&lt;p&gt;A simple degree reduction technique for converting piecewise cubic splines into piecewise quadratic splines that maintain parameterization and $C^1$ continuity.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/quadratic-approximation/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>publication</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>curve</category>
+            
+          
+            
+              <category>hair</category>
+            
+          
+            
+              <category>rendering</category>
+            
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>publication</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Octree</title>
+        <link>https://ttnghia.github.io/posts/octree/</link>
+        <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Wed, 24 Jun 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/octree/</guid>
+        <description>&lt;p&gt;An implementation of &lt;a href=&#34;https://anteru.net/blog/2008/loose-octrees/&#34;&gt;loose octree&lt;/a&gt; with application in collision detection for particle simulation.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/octree/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>octree</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>ArcBall Camera</title>
+        <link>https://ttnghia.github.io/posts/arcball-camera/</link>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Mon, 03 Feb 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/arcball-camera/</guid>
+        <description>&lt;p&gt;An implementation of &lt;a href=&#34;https://www.talisman.org/~erlkonig/misc/shoemake92-arcball.pdf&#34;&gt;Ken Shoemake&amp;rsquo;s arcball camera&lt;/a&gt; with smooth navigation feature.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/arcball-camera/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Ray Tracing In One Weekend</title>
+        <link>https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/</link>
+        <pubDate>Wed, 29 Jan 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Wed, 29 Jan 2020 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/</guid>
+        <description>&lt;p&gt;An implementation of a simple ray tracer adapted from Peter Shirley&amp;rsquo;s book &lt;a href=&#34;https://raytracing.github.io/books/RayTracingInOneWeekend.html&#34;&gt;Ray Tracing in One Weekend&lt;/a&gt;.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/ray-tracing-over-the-weekend/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>ray tracing</category>
+            
+          
+            
+              <category>rendering</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Fluid Simulation 2D</title>
+        <link>https://ttnghia.github.io/posts/fluid-simulation-2d/</link>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Tue, 12 Nov 2019 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/fluid-simulation-2d/</guid>
+        <description>&lt;p&gt;A 2D fluid simulation using the hybrid grid/particle approach with APIC (&lt;a href=&#34;https://dl.acm.org/doi/10.1145/2766996&#34;&gt;Affine Particle-in-Cell&lt;/a&gt;) transfer.&lt;/p&gt;</description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/fluid-simulation-2d/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>fluid</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>particle</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>SPH Fluid Simulation (v2)</title>
+        <link>https://ttnghia.github.io/posts/sph-fluid-simulation-v2/</link>
+        <pubDate>Fri, 08 Nov 2019 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Fri, 08 Nov 2019 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/sph-fluid-simulation-v2/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/sph-fluid-simulation-v2/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>fluid</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>particle</category>
+            
+          
+            
+              <category>c&#43;&#43;</category>
+            
+          
+            
+              <category>magnum</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+          
+            
+              <category>code</category>
+            
+          
+            
+              <category>webgl</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

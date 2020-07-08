@@ -1215,7 +1215,7 @@
 <meta name="description" content="" />
 
 
-<meta name="keywords" content="code,graphics,ray tracing,rendering,c&#43;&#43;,magnum">
+<meta name="keywords" content="code,graphics,ray tracing,rendering,c&#43;&#43;,magnum,webgl">
 
 <meta name="created" content="2020-01-29T00:00:00-0700">
 <meta name="modified" content="2020-01-29T00:00:00-0700">
@@ -1267,7 +1267,7 @@
     "dateModified": "2020-01-29T00:00:00-07:00",
     "url" : "https://ttnghia.github.io/posts/ray-tracing-in-one-weekend/",
     "description": "\u003cp\u003eAn implementation of a simple ray tracer adapted from Peter Shirley\u0026rsquo;s book \u003ca href=\"https://raytracing.github.io/books/RayTracingInOneWeekend.html\"\u003eRay Tracing in One Weekend\u003c/a\u003e.\u003c/p\u003e",
-    "keywords": ["code","graphics","ray tracing","rendering","c++","magnum"],
+    "keywords": ["code","graphics","ray tracing","rendering","c++","magnum","webgl"],
     "image" : "https://ttnghia.github.io/images/ray-tracing-over-the-weekend/thumbnail.png",
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -1466,18 +1466,6 @@ if (!doNotTrack) {
 
       
         <li class="navbarm__menu--item ">
-          <a href="/tag/blog">Blog</a>
-        </li>
-      
-      
-    
-      
-      
-      
-      
-
-      
-        <li class="navbarm__menu--item ">
           <a href="/gallery">
             Gallery
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
@@ -1611,14 +1599,6 @@ if (!doNotTrack) {
   
   
   
-  <a href="/tag/blog" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Blog</a>
-  
-  
-  
-  
-  
-  
-  
   <div class="navbar__dropdown navbar__slide-down" data-ani="true">
     <a href="/gallery" class="navbar__menu-item "
       dir="ltr">
@@ -1721,6 +1701,8 @@ if (!doNotTrack) {
 
   <li><a href="https://ttnghia.github.io/tags/rendering/" class="single__tag" title="rendering">#rendering</a></li>
 
+  <li><a href="https://ttnghia.github.io/tags/webgl/" class="single__tag" title="webgl">#webgl</a></li>
+
   <li><a href="https://ttnghia.github.io/tags/magnum/" class="single__tag" title="magnum">#magnum</a></li>
 
   <li><a href="https://ttnghia.github.io/tags/ray-tracing/" class="single__tag" title="ray tracing">#ray tracing</a></li>
@@ -1736,17 +1718,28 @@ if (!doNotTrack) {
 <p><a href="https://doc.magnum.graphics/magnum/examples-raytracing.html">Magnum example page with more description</a><br />
 <a href="https://github.com/mosra/magnum-examples/tree/master/src/raytracing">Code (github) from Magnum repository</a><br />
 <a href="/exe/RayTracing.exe">Windows binary</a></p>
-<h3 id="usage">Usage</h3>
-<ul>
-<li><code>Mouse drag</code> rotates the camera</li>
-<li><code>Shift + mouse drag</code> pans the camera</li>
-<li><code>Mouse wheel</code> zooms in/out</li>
-<li><code>R</code> resets the camera to its original transformation</li>
-<li><code>D</code> toggles depth-of-field rendering</li>
-<li><code>M</code> toggles marking the next render block by a different color</li>
-<li><code>N</code> generates a new random scene</li>
-<li><code>Space</code> pauses/resumes rendering</li>
-</ul>
+<h3 id="webgl-demo">WebGL Demo</h3>
+<p>Thanks <a href="https://github.com/mosra/">Vladimír Vondruš</a> for building the awesome WebGL application. This is part of <a href="https://magnum.graphics/">Magnum</a> graphics engine showcase. Note that this WebGL demo requires WebAssembly-capable browser with WebGL enabled.</p>
+<p>Usage:<br />
+* <code>Mouse drag</code> rotates the camera<br />
+* <code>Shift + mouse drag</code> pans the camera<br />
+* <code>Mouse wheel</code> zooms in/out<br />
+* <code>R</code> resets the camera to its original transformation<br />
+* <code>D</code> toggles depth-of-field rendering<br />
+* <code>M</code> toggles marking the next render block by a different color<br />
+* <code>N</code> generates a new random scene<br />
+* <code>Space</code> pauses/resumes rendering</p>
+<link rel="stylesheet" href="/webgl/WebApplication.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<div id="container">
+  <div id="sizer"><div id="expander"><div id="listener">
+    <canvas id="canvas"></canvas>
+    <div id="status">Initialization...</div>
+    <div id="status-description"></div>
+    <script src="/webgl/EmscriptenApplication.js"></script>
+    <script async="async" src="/webgl/magnum-raytracing.js"></script>
+  </div></div></div>
+</div>
 <h3 id="gallery">Gallery</h3>
 <p align="center">
 <img src="/images/ray-tracing-over-the-weekend/1.png" alt="A screenshot of the program" style="width: 90%;"/>
@@ -1825,7 +1818,7 @@ if (!doNotTrack) {
       
     
       
-        <a href="https://twitter.com/intent/tweet?text=Ray%20Tracing%20In%20One%20Weekend&url=https%3a%2f%2fttnghia.github.io%2fposts%2fray-tracing-in-one-weekend%2f&hashtags=code%2cgraphics%2cray%20tracing%2crendering%2cc%2b%2b%2cmagnum&via=" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://twitter.com/intent/tweet?text=Ray%20Tracing%20In%20One%20Weekend&url=https%3a%2f%2fttnghia.github.io%2fposts%2fray-tracing-in-one-weekend%2f&hashtags=code%2cgraphics%2cray%20tracing%2crendering%2cc%2b%2b%2cmagnum%2cwebgl&via=" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="twitter" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.534 7.113c.976-.693 1.797-1.558 2.466-2.554v-.001c-.893.391-1.843.651-2.835.777 1.02-.609 1.799-1.566 2.165-2.719-.951.567-2.001.967-3.12 1.191-.903-.962-2.19-1.557-3.594-1.557-2.724 0-4.917 2.211-4.917 4.921 0 .39.033.765.114 1.122-4.09-.2-7.71-2.16-10.142-5.147-.424.737-.674 1.58-.674 2.487 0 1.704.877 3.214 2.186 4.089-.791-.015-1.566-.245-2.223-.606v.054c0 2.391 1.705 4.377 3.942 4.835-.401.11-.837.162-1.29.162-.315 0-.633-.018-.931-.084.637 1.948 2.447 3.381 4.597 3.428-1.674 1.309-3.8 2.098-6.101 2.098-.403 0-.79-.018-1.177-.067 2.18 1.405 4.762 2.208 7.548 2.208 8.683 0 14.342-7.244 13.986-14.637z"/></svg>
         </a>
       
@@ -3067,7 +3060,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <ul>
         <li><a href="#description">Description</a></li>
         <li><a href="#download">Download</a></li>
-        <li><a href="#usage">Usage</a></li>
+        <li><a href="#webgl-demo">WebGL Demo</a></li>
         <li><a href="#gallery">Gallery</a></li>
       </ul>
     </li>
