@@ -29,7 +29,7 @@ A simple degree reduction technique for converting piecewise cubic splines into 
 <p style="text-align: center !important; font-size: 20px; font-weight: 500;">
 Nghia Truong, <a href="http://cemyuksel.com">Cem Yuksel</a> and Larry Seiler
 <br />
-<a href="https://www.highperformancegraphics.org/2020/"><em>High-Performance Graphics 2020</em>]</a>
+<a href="https://www.highperformancegraphics.org/2020/"><em>High-Performance Graphics 2020</em></a>
 <br/><br/>
 <img src="/images/quadratic-approximation/teaser.png" style="width: 100%;"/>
 </p>
@@ -41,16 +41,15 @@ We present a simple degree reduction technique for piecewise cubic polynomial sp
 
 
 ### Download
-[Paper: coming soon](/pdf/QuadraticApproximation.pdf) 
+[Paper: (preprint, 10MB pdf)](/pdf/QuadraticApproximation.pdf) 
 [Code (github)](https://github.com/ttnghia/QuadraticApproximation)
 
 ### Video
 
 Coming soon.
 
-### Gallery
 
-(To be updated)
+### Gallery (Demo App)
 
 <p align="center">
 <img src="/images/quadratic-approximation/1.png" style="width: 100%;"/>

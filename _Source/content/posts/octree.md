@@ -13,8 +13,10 @@ tags:
 - octree
 - c++
 - magnum
+- webgl
 categories:
 - code
+- webgl
 image: images/octree/thumbnail.png
 ---
 
@@ -30,6 +32,22 @@ This is a simple, single-threaded implementation of a [loose octree](https://ant
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-octree.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/octree)
 [Windows binary](/exe/Octree.exe)
+
+### WebGL Demo
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+[By default](/posts/octree/), there are 2000 spheres simulated at slow speed. A better scenario can be seen by [following this link](?spheres=20&amp;sphere-radius=0.1&amp;sphere-velocity=1.0).
+
+<link rel="stylesheet" href="/webgl/WebApplication.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<div id="container">
+  <div id="sizer"><div id="expander"><div id="listener">
+    <canvas id="canvas"></canvas>
+    <div id="status">Initialization...</div>
+    <div id="status-description"></div>
+    <script src="/webgl/EmscriptenApplication.js"></script>
+    <script async="async" src="/webgl/magnum-octree.js"></script>
+  </div></div></div>
+</div>
 
 ### Usage
 * `Mouse drag` rotates the camera

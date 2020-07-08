@@ -21,12 +21,7 @@
   name = "Animation"
   url = "tags/animation"
   weight = 4
-  
-[[main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "tag/blog"
-  weight = 5
+
 
 [[main]]
   identifier = "gallery"

@@ -15,8 +15,10 @@ tags:
 - particle
 - c++
 - magnum
+- webgl
 categories:
 - code
+- webgl
 image: images/sph-fluid-simulation-v2/thumbnail.png
 ---
 
@@ -33,6 +35,23 @@ I also had another SPH simulation code which only deals with static boundary [he
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-fluidsimulation3d.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/fluidsimulation3d)
 [Windows binary](/exe/SPHFluidSimulation.exe)
+
+### WebGL Demo
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+Due to restriction of WebGL, this demo only runs on a single thread. The desktop app runs at much higher speed with multi-threading enabled.
+
+<link rel="stylesheet" href="/webgl/WebApplication.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<div id="container">
+  <div id="sizer"><div id="expander"><div id="listener">
+    <canvas id="canvas"></canvas>
+    <div id="status">Initialization...</div>
+    <div id="status-description"></div>
+    <script src="/webgl/EmscriptenApplication.js"></script>
+    <script async="async" src="/webgl/magnum-fluidsimulation3d.js"></script>
+  </div></div></div>
+</div>
+
 
 ### Usage
 * `Mouse drag` rotates the camera

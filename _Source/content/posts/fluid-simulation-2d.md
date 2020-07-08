@@ -15,8 +15,10 @@ tags:
 - particle
 - c++
 - magnum
+- webgl
 categories:
 - code
+- webgl
 image: images/fluid-simulation-2d/thumbnail.png
 ---
 
@@ -32,6 +34,22 @@ A 2D fluid simulation using the hybrid grid/particle approach with APIC ([Affine
 [Magnum example page with more description](https://doc.magnum.graphics/magnum/examples-fluidsimulation2d.html)
 [Code (github) from Magnum repository](https://github.com/mosra/magnum-examples/tree/master/src/fluidsimulation2d)
 [Windows binary](/exe/FluidSimulation2D.exe)
+
+### WebGL Demo
+Thanks [Vladimír Vondruš](https://github.com/mosra/) for building the awesome WebGL application. This is part of [Magnum](https://magnum.graphics/) graphics engine showcase.
+
+<link rel="stylesheet" href="/webgl/WebApplication.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<div id="container">
+  <div id="sizer"><div id="expander"><div id="listener">
+    <canvas id="canvas"></canvas>
+    <div id="status">Initialization...</div>
+    <div id="status-description"></div>
+    <script src="/webgl/EmscriptenApplication.js"></script>
+    <script async="async" src="/webgl/magnum-fluidsimulation2d.js"></script>
+  </div></div></div>
+</div>
+
 
 ### Usage
 * `Mouse drag` rotates the camera
