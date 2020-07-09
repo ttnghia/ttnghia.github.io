@@ -78,7 +78,7 @@ enableSidebarPostsByOrder = false # another lists in the sidebar
 # footer
 showPoweredBy = false # show footer text: Powered by Hugo and Zzo theme
 showFeedLinks = true # RSS Feed 
-showSocialLinks = false # email, facebook, twitter ...
+showSocialLinks = true # email, facebook, twitter ...
 enableLangChange = false # show button at bottom left of footer.
 
 # service
