@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ttnghia.github.io
+Token: 724b38d026edcc8e7846706d887195ebf89777e71e851d0b62e45ba9c5bd8b30
