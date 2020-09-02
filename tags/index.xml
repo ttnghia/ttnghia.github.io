@@ -14,7 +14,7 @@
     <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
     <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://ttnghia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
       <item>
         <title>c&#43;&#43;</title>
         <link>https://ttnghia.github.io/tags/c&#43;&#43;/</link>
-        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/c&#43;&#43;/</guid>
@@ -43,10 +43,82 @@
       <item>
         <title>code</title>
         <link>https://ttnghia.github.io/tags/code/</link>
-        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 -0700</pubDate>
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/code/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>fem</title>
+        <link>https://ttnghia.github.io/tags/fem/</link>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/fem/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>graphics</title>
+        <link>https://ttnghia.github.io/tags/graphics/</link>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/graphics/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>magnum</title>
+        <link>https://ttnghia.github.io/tags/magnum/</link>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/magnum/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>simulation</title>
+        <link>https://ttnghia.github.io/tags/simulation/</link>
+        <pubDate>Wed, 02 Sep 2020 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        
+        <guid>https://ttnghia.github.io/tags/simulation/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
@@ -65,24 +137,6 @@
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/curve/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>graphics</title>
-        <link>https://ttnghia.github.io/tags/graphics/</link>
-        <pubDate>Sun, 28 Jun 2020 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/graphics/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>
@@ -167,24 +221,6 @@
       </item>
       
       <item>
-        <title>magnum</title>
-        <link>https://ttnghia.github.io/tags/magnum/</link>
-        <pubDate>Thu, 25 Jun 2020 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/magnum/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>octree</title>
         <link>https://ttnghia.github.io/tags/octree/</link>
         <pubDate>Wed, 24 Jun 2020 00:00:00 -0700</pubDate>
@@ -245,24 +281,6 @@
         <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
         
         <guid>https://ttnghia.github.io/tags/particle/</guid>
-        <description></description>
-        
-        <dc:creator>Nghia Truong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>simulation</title>
-        <link>https://ttnghia.github.io/tags/simulation/</link>
-        <pubDate>Tue, 12 Nov 2019 00:00:00 -0700</pubDate>
-        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
-        
-        <guid>https://ttnghia.github.io/tags/simulation/</guid>
         <description></description>
         
         <dc:creator>Nghia Truong</dc:creator>

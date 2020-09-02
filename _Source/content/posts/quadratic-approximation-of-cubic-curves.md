@@ -48,6 +48,26 @@ We present a simple degree reduction technique for piecewise cubic polynomial sp
 [Windows binary](https://github.com/ttnghia/QuadraticApproximation/releases)
 
 
+### BibTeX
+```
+@article{Truong2020,
+author = {Truong, Nghia and Yuksel, Cem and Seiler, Larry},
+title = {Quadratic Approximation of Cubic Curves},
+year = {2020},
+issue_date = {August 2020},
+publisher = {The Association for Computers in Mathematics and Science Teaching},
+address = {USA},
+volume = {3},
+number = {2},
+url = {https://doi.org/10.1145/3406178},
+doi = {10.1145/3406178},
+journal = {Proc. ACM Comput. Graph. Interact. Tech.},
+month = aug,
+articleno = {16},
+numpages = {17}
+}
+```
+
 ### WebGL Demo
 
 Usage:
@@ -92,3 +112,6 @@ Notes:
 <img src="/images/quadratic-approximation/2.png" style="width: 80%;"/>
 <br />
 </p>
+
+
+
