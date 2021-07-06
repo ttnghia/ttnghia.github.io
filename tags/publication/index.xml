@@ -14,13 +14,67 @@
     <managingEditor>nghiatruong.vn [@gmail.com] (Nghia Truong)</managingEditor>
     <webMaster>nghiatruong.vn [@gmail.com] (Nghia Truong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://ttnghia.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Particle Merging-and-Splitting</title>
+        <link>https://ttnghia.github.io/posts/particle-merging-and-splitting/</link>
+        <pubDate>Sun, 04 Apr 2021 00:00:00 -0700</pubDate>
+        <author>nghiatruong.vn [@gmail.com] (Nghia Truong)</author>
+        <atom:modified>Sun, 04 Apr 2021 00:00:00 -0700</atom:modified>
+        <guid>https://ttnghia.github.io/posts/particle-merging-and-splitting/</guid>
+        <description></description>
+        
+        <dc:creator>Nghia Truong</dc:creator>
+        <media:content url="https://ttnghia.github.io/images/particle-merging-splitting/thumbnail.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>publication</category>
+            
+          
+            
+              <category>graphics</category>
+            
+          
+            
+              <category>particle</category>
+            
+          
+            
+              <category>simulation</category>
+            
+          
+            
+              <category>fluid</category>
+            
+          
+            
+              <category>sph</category>
+            
+          
+            
+              <category>fracture</category>
+            
+          
+        
+        
+          
+            
+              <category>publication</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Quadratic Approximation of Cubic Curves</title>
